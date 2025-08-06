@@ -1,0 +1,164 @@
+verification_code.minlength: ''
+verification_code.maxlength: ''
+verification.birthday.invalid_age: Untuk melanjutkan verifikasi akun, Anda harus berusia minimal 18 tahun
+invalid_proper_name: ''
+max_transfer_amount_exceeded: ''
+allow_only_latin_letters: Anda hanya dapat menggunakan huruf besar dan kecil.
+allow_only_latin_letters_and_digits: ''
+password_simple: ''
+phone_not_valid: ''
+matches_mt_password: ''
+password_not_match: ''
+does_not_match_zipcode_pattern: ''
+invalid_verification_code: ''
+pattern: ''
+password.matches_user_password: ''
+password.min_message: ''
+password.max_message: ''
+password.too_simple: ''
+password.allow_only_latin_letters_and_digits: ''
+text.minlength: ''
+text.maxlength: ''
+mobile_phone.not_a_number: ''
+mobile_phone.invalid: ''
+mobile_phone.too_short: ''
+mobile_phone.too_long: ''
+mobile_phone.invalid_country: ''
+phone_number_already_verified: ''
+email_address_already_verified: ''
+change_verified_email_not_allowed: ''
+verified_user_change_field_not_allowed: ''
+document.invalid_country: ''
+validation_failed: Validasi gagal.
+date.invalid_format: ''
+date.adult_error: ''
+account.id.does_not_exist: 'Akun #{{ value }} tidak ada.'
+account.id.does_not_belong_to_user: 'Akun #{{ accountId }} tidak terdaftar di {{ userId}}.'
+account.id.does_not_belong_to_user_by_partner_account_number: ''
+welcome_bonus.id.limit_has_been_reached: ''
+deposit.amount.below_minimum: Deposit minimum {{ minimum }}.
+deposit.amount.above_maximum: Deposit maksimum {{ maximum }}.
+deposit.amount.unverified_maximum: ''
+deposit.bonus.invalid_value: ''
+deposit.bonus.not_available: ''
+withdrawal.account_password.invalid_password: Akun tidak berlaku {{ number }} sandi terminal
+withdrawal.account_password.account_blocked: Akun diblok
+withdrawal.account_password.service_is_unavailable: Layanan tidak tersedia
+withdrawal.amount.below_minimum: Penarikan minimum {{ minimum }}.
+withdrawal.amount.above_maximum: Penarikan maksimum {{ maximum }}.
+withdrawal.requisite.not_found: ''
+withdrawal.requisite.blocked: ''
+withdrawal.wallet_id.invalid_generated_value: Dipastikan wallet ID yang sah
+withdrawal.wallet_id.since_first_deposit: 30 hari terhitung sejak deposit pertama dari wallet {{ value }}.
+withdrawal.bitcoin_wallet.invalid_address: Ini bukan alamat BitCoin yang sah.
+balance_transaction.id.does_not_exist: ''
+balance_transaction.id.does_not_belong_to_user: ''
+balance_transaction.status.does_not_match: ''
+balance_transaction.type.does_not_match: ''
+balance_transaction.confirmation.cooldown_not_passed: Mohon tunggu 45 detik sebelum meminta kode konfirmasi yang baru
+balance_transaction.confirmation.code_expired: Kode konfirmasi kadaluarsa
+balance_transaction.confirmation.maximum_attempts_reached: Anda telah mencapai batas konfirmasi maksimum
+balance_transaction.confirmation.expired: 'Transaksi #{{ transactionId }} kadaluarsa'
+balance_transaction.confirmation.already_confirmed: 'Transaksi #{{ transactionId }} terkonfirmasi'
+balance_transaction.confirmation.insufficient_free_margin: 'Jumlah maksimum yang dapat Anda tarik mengalami perubahan karena pada akun #{{ accountNumber }} free margin tidak mencukupi untuk memblokir jumlah penarikan {{ amount }}. Free margin pada akun Anda berubah karena posisi terbuka di akun Anda. Free margin saat ini: {{ freeMargin }}. Mohon kembali ke halaman sebelumnya dan pilih jumlah penarikan baru yang tersedia.'
+transfer.minimal_amount: ''
+transfer.minimal_amount_cent: ''
+transfer.amount_range: ''
+transfer.amount_range_cent: ''
+transfer.not_enough_money: ''
+payment_system_alias.not_applicable: '{{ value }} tidak berlaku untuk {{ type }}.'
+ecommpay.bank_id.invalid_value: 'ID bank tidak sah. Angka yang diterima adalah {{ choices }}. '
+ecommpay.region_id.invalid_value: ID wilayah tidak sah.
+ecommpay.card_token.disabled: 'Kartu #{{ value }} dinonaktifkan.'
+ecommpay.card_token.does_not_exist: 'Kartu #{{ token }} tidak ditemukan.'
+ecommpay.card_token.does_not_belong_to_payment_system: 'Kartu #{{ token }} tidak terkait dengan "{{ paymentSystem }}" sistem pembayaran.'
+ecommpay.card_token.does_not_belong_to_user: 'Kartu #{{ token }} tidak terkait dengan pengguna yang terdaftar saat ini.'
+ecommpay.card_token.invalid_client_wallet_id: 'Kartu #{{ token }} tidak sesuai dengan id wallet klien {{ value }}.'
+ecommpay.customer_name.invalid_value: ''
+sorexpay.card_id.does_not_exist: 'Kartu #{{ id }} tidak ditemukan.'
+sorexpay.card_id.does_not_belong_to_payment_system: 'Kartu #{{ id }} tidak terkait dengan "{{ paymentSystem }}" sistem pembayaran.'
+sorexpay.card_id.does_not_belong_to_user: 'Kartu #{{ id }} tidka terkait dengan pengguna {{ userId }}.'
+sorexpay.birthday.less_than_minimum: Anda harus berusia minimum 18 tahun.
+pay_today.bank_account_number.invalid_format: ''
+pay_today.account_holder_name.invalid_format: ''
+payzen.customer_bank_account_number.invalid_format: ''
+zota_pay.customer_bank_account_number.invalid_format: ''
+zota_pay.customer_bank_account_name.invalid_format: ''
+neteller.wallet_must_be_email: ''
+flexagon.bank_account_number.invalid_format: ''
+flexagon.bank_account_holder_name.invalid_format: ''
+flexagon.bank_name.invalid_value: ''
+flexagon.swift_code.invalid_value: ''
+offline_bank.bank_account_number.invalid_format: ''
+offline_bank.bank_account_holder.invalid_format: ''
+echelon_pay.bank_account_number.invalid_format: ''
+echelon_pay.bank_account_holder.invalid_value: ''
+awe_pay.account_number.invalid_format: ''
+awe_pay.account_name.invalid_format: ''
+awe_pay.required_for_not_va_and_qr_banks: ''
+refer_friend.wrong_referral_code: Kode referral salah.
+refer_friend.invalid_country: Negara Anda tidak dapat berpartisipasi.
+validator.payment_account.already_used: ''
+validator.bank_code.invalid: ''
+validator.phone_number.empty: ''
+validator.phone_number.invalid: ''
+validator.bank_name.empty: ''
+validator.bank_account_holder_name.empty: ''
+validator.bank_account_holder_name.invalid: ''
+validator.bank_account_number.empty: ''
+validator.bank_account_number.invalid: ''
+validator.bank_branch.empty: ''
+validator.bank_branch.invalid: ''
+validator.crypto_wallet.invalid: ''
+validator.crypto_wallet.unsupported: ''
+validator.cryptocurrency.empty: ''
+validator.cryptocurrency.invalid: ''
+validator.destination_tag.required: ''
+validator.destination_tag.invalid_format: ''
+validator.email.invalid: Bidang ini harus berisi alamat e-mail yang valid
+validator.city.maxlength: Kota tidak boleh lebih dari 31 karakter
+validator.state.maxlength: Negara bagian tidak boleh lebih dari 31 karakter
+kiber_pay.payment_method.invalid_value: ''
+kiber_pay.phone_number.empty: ''
+kiber_pay.phone_number.invalid: ''
+invalid_uppercase: ''
+field_is_required: ''
+input_too_short: ''
+input_too_long: ''
+only_mobile_number: ''
+invalid_country_code: ''
+phone_number_too_long: ''
+phone_number_too_short: ''
+not_a_phone_number: ''
+invalid_credentials: ''
+invalid_verification_code_format: ''
+email_too_long: ''
+invalid_email_verification: ''
+invalid_phone_verification: ''
+countries_restriction: ''
+latin_letters_only: Anda hanya dapat menggunakan huruf besar dan kecil. e.g. AbCdE
+invalid_city_format: ''
+invalid_address_format: ''
+form_saved_successfully: ''
+form_contains_error: ''
+verification_code_email_confirmation: ''
+verification_code_confirmation: ''
+verification_call_confirmation: ''
+login_invalid_verification.email: Email Anda belum terverifikasi. <a class="verify-link">Verify email</a>
+login_invalid_verification.phone: Nomor telepon Anda belum terverifikasi. <a class="verify-link">Verify phone</a>
+required: Bidang ini wajib diisi
+invalid_number: ''
+invalid_email: Masukkan email yang valid
+invalid_phone: Masukkan nomor telepon yang valid
+file_size_exceeded: ''
+invalid_password: Masukkan kata sandi yang valid
+email_already_used: ''
+api.internal_error.message: Terjadi kesalahan. Kode kesalahan adalah error_code.
+common.section.error.modal_text: Jangan khawatir. Kesalahan bukan pada Anda.
+common.title.internal_error: Kesalahan server internal
+otp.delivery_method_is_empty: ''
+otp.delivery_method_is_unknown: ''
+otp.delivery_method_is_not_supported_in_operated_country: ''
+mask: Format tidak benar
+user_is_not_authenticated: Pengguna belum terautentikasi
+2fa.setup_action_invalid_approval_code: Kode tidak valid

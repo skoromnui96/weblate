@@ -1,0 +1,164 @@
+verification_code.minlength: Verification code must contain at least %length% digits
+verification_code.maxlength: Verification code must contain no more than %length% digits
+verification.birthday.invalid_age: To proceed with account verification, you need to be at least 18 years old.
+invalid_proper_name: Invalid proper name
+max_transfer_amount_exceeded: Max transfer amount of {{ amount }} is exceeded.
+allow_only_latin_letters: Must contain only latin letters
+allow_only_latin_letters_and_digits: Must contain only latin letters and digits
+password_simple: Password is too simple
+phone_not_valid: Phone number is not valid
+matches_mt_password: Trader room password should be different than MT password
+password_not_match: The password fields must match
+does_not_match_zipcode_pattern: Invalid Zipcode for the selected country
+invalid_verification_code: Invalid verification code
+pattern: Pattern
+password.matches_user_password: MT4 terminal password should be different than Trader Room password.
+password.min_message: Password must contain at least {{ limit }} digits
+password.max_message: Password must contain no more than {{ limit }} digits
+password.too_simple: "Password must contain at least two of three character types: lowercase, uppercase or digits."
+password.allow_only_latin_letters_and_digits: "Password can contain only latin letters, digits and some special symbols: ~`!@#$%^&*()-_+{}[];:\"<>,./?"
+text.minlength: Value too short. Minimum input length is %length% symbols
+text.maxlength: Value too long. Maximum input length is %length% symbols
+mobile_phone.not_a_number: The entered value does not seem to a phone number
+mobile_phone.invalid: Invalid mobile phone number
+mobile_phone.too_short: Entered value is too short for a mobile phone
+mobile_phone.too_long: Entered value is too long for a mobile phone
+mobile_phone.invalid_country: The entered nubmer does not belong to the country
+phone_number_already_verified: Phone number is already verified
+email_address_already_verified: Email address is already verified
+change_verified_email_not_allowed: Cannot change verified email address
+verified_user_change_field_not_allowed: Cannot change %field% of a verified user
+document.invalid_country: "{{ value }} upload is not available in this country"
+validation_failed: Validation failed.
+date.invalid_format: Invalid date format.
+date.adult_error: You must be at least 18 years old.
+account.id.does_not_exist: "Account #{{ value }} does not exist."
+account.id.does_not_belong_to_user: "Account #{{ accountId }} does not belong to user {{ userId }}."
+account.id.does_not_belong_to_user_by_partner_account_number: "Partner account #{{ accountNumber }} does not belong to user {{ userId }}."
+welcome_bonus.id.limit_has_been_reached: "Limit of accounts for welcome bonus has been reached for user {{ userId }}."
+deposit.amount.below_minimum: You can deposit a minimum of {{ minimum }} to selected account.
+deposit.amount.above_maximum: You can deposit up to {{ maximum }} to selected account.
+deposit.amount.unverified_maximum: You've reached your limit. Verify to proceed.
+deposit.bonus.invalid_value: "{{ value }} is not a valid deposit bonus choice. Valid values are {{ choices }}."
+deposit.bonus.not_available: "{{ value }} is not a available. Available values are {{ choices }}."
+withdrawal.account_password.invalid_password: Invalid account {{ number }} terminal password
+withdrawal.account_password.account_blocked: Account is blocked
+withdrawal.account_password.service_is_unavailable: Service unavailable
+withdrawal.amount.below_minimum: You can withdraw a minimum of {{ minimum }} from selected account.
+withdrawal.amount.above_maximum: You can withdraw up to {{ maximum }} from selected account.
+withdrawal.requisite.not_found: "Withdrawal to requisite {{ requisite }} is not allowed."
+withdrawal.requisite.blocked: "Requisite {{ requisite }} is blocked for withdrawal till {{ blocked_till }}."
+withdrawal.wallet_id.invalid_generated_value: "This must be a valid generated wallet id."
+withdrawal.wallet_id.since_first_deposit: "30 days must pass since first deposit from wallet {{ value }}."
+withdrawal.bitcoin_wallet.invalid_address: "This is not a valid BitCoin address."
+balance_transaction.id.does_not_exist: "Balance transaction #{{ transactionId }} does not exist"
+balance_transaction.id.does_not_belong_to_user: "Balance transaction #{{ transactionId }} does not belong to user."
+balance_transaction.status.does_not_match: "Balance transaction #{{ transactionId }} is not of {{ status }} status."
+balance_transaction.type.does_not_match: "Balance transaction #{{ transactionId }} is not of {{ type }} type."
+balance_transaction.confirmation.cooldown_not_passed: "Wait 45 seconds before requesting new confirmation code"
+balance_transaction.confirmation.code_expired: "Confirmation code has expired"
+balance_transaction.confirmation.maximum_attempts_reached: "You have reached maximum confirmation attempts"
+balance_transaction.confirmation.expired: "Transaction #{{ transactionId }} has expired"
+balance_transaction.confirmation.already_confirmed: "Transaction #{{ transactionId }} is already confirmed"
+balance_transaction.confirmation.insufficient_free_margin: "Account #{{ accountNumber }} free margin of {{ freeMargin }} is not enough to block {{ amount }}"
+transfer.minimal_amount: "Minimal transfer amount is {{ amount }}."
+transfer.minimal_amount_cent: "Minimal transfer amount is {{ amount }} Cent."
+transfer.amount_range: "This value should be between {{ min }} and {{ max }}"
+transfer.amount_range_cent: "This value should be between {{ min }} Cent and {{ max }} Cent"
+transfer.not_enough_money: "Not enough money"
+payment_system_alias.not_applicable: "{{ value }} is not applicable for {{ type }}."
+ecommpay.bank_id.invalid_value: Invalid bank id. Accepted values are {{ choices }}.
+ecommpay.region_id.invalid_value: Invalid region id.
+ecommpay.card_token.disabled: "Card #{{ value }} is disabled."
+ecommpay.card_token.does_not_exist: "Card #{{ token }} not found."
+ecommpay.card_token.does_not_belong_to_payment_system: "Card #{{ token }} does not belong to \"{{ paymentSystem }}\" payment system."
+ecommpay.card_token.does_not_belong_to_user: "Card #{{ token }} does not belong to currently authenticated user."
+ecommpay.card_token.invalid_client_wallet_id: "Card #{{ token }} does not correspond to client wallet id {{ value }}."
+ecommpay.customer_name.invalid_value: "Only letters allowed."
+sorexpay.card_id.does_not_exist: "Card #{{ id }} not found."
+sorexpay.card_id.does_not_belong_to_payment_system: "Card #{{ id }} does not belong to \"{{ paymentSystem }}\" payment system."
+sorexpay.card_id.does_not_belong_to_user: "Card #{{ id }} does not belong to user {{ userId }}."
+sorexpay.birthday.less_than_minimum: "You have to be at least 18 years old."
+pay_today.bank_account_number.invalid_format: "Bank account number must consist of digits only."
+pay_today.account_holder_name.invalid_format: "Only letters allowed."
+payzen.customer_bank_account_number.invalid_format: "Customer bank account number must consist of digits only."
+zota_pay.customer_bank_account_number.invalid_format: "Customer bank account number must consist of digits only."
+zota_pay.customer_bank_account_name.invalid_format: "Only letters allowed."
+neteller.wallet_must_be_email: "Provided Neteller account number {{ value }} is not valid. Please, use email format."
+flexagon.bank_account_number.invalid_format: "Bank account number must consist of digits only."
+flexagon.bank_account_holder_name.invalid_format: "Only letters allowed."
+flexagon.bank_name.invalid_value: "Only the Latin alphabet allowed."
+flexagon.swift_code.invalid_value: "Only the Latin alphabet and digits allowed."
+offline_bank.bank_account_number.invalid_format: "Bank account number must consist of digits only."
+offline_bank.bank_account_holder.invalid_format: "Only letters allowed."
+echelon_pay.bank_account_number.invalid_format: "Bank account number must consist of digits only."
+echelon_pay.bank_account_holder.invalid_value: "Only letters allowed."
+awe_pay.account_number.invalid_format: "Bank account number must consist of digits only."
+awe_pay.account_name.invalid_format: "Only letters allowed."
+awe_pay.required_for_not_va_and_qr_banks: "This field is required."
+refer_friend.wrong_referral_code: Wrong referral code.
+refer_friend.invalid_country: Your country is not eligible for the participation.
+validator.payment_account.already_used: Payment account already used
+validator.bank_code.invalid: Bank code is not valid
+validator.phone_number.empty: Field can't be empty
+validator.phone_number.invalid: Phone number is not valid
+validator.bank_name.empty: Field can't be empty
+validator.bank_account_holder_name.empty: Field can't be empty
+validator.bank_account_holder_name.invalid: Only letters allowed
+validator.bank_account_number.empty: Field can't be empty
+validator.bank_account_number.invalid: Bank account number must consist of digits only
+validator.bank_branch.empty: Field can't be empty
+validator.bank_branch.invalid: Bank account number must consist of digits only
+validator.crypto_wallet.invalid: Invalid crypto address
+validator.crypto_wallet.unsupported: Currently we only support LTC legacy addresses.
+validator.cryptocurrency.empty: Field can't be empty
+validator.cryptocurrency.invalid: Cryptocurrency is not support
+validator.destination_tag.required: Destination Tag is required
+validator.destination_tag.invalid_format: Destination Tag must consist of digits only
+validator.email.invalid: The field must contain valid e-mail address
+validator.city.maxlength: City can't be longer than 31 characters
+validator.state.maxlength: State can't be longer than 31 characters
+kiber_pay.payment_method.invalid_value: Invalid payment method.
+kiber_pay.phone_number.empty: Field can't be empty
+kiber_pay.phone_number.invalid: Phone number is not valid
+invalid_uppercase: Only capital letters and digits allowed.
+field_is_required: This field is required
+input_too_short: Field value must be at least {{min}} symbols long
+input_too_long: Field value must be at most {{max}} symbols long
+only_mobile_number: Only mobile number is allowed
+invalid_country_code: Invalid country code
+phone_number_too_long: The phone number is too long
+phone_number_too_short: The phone number is too short
+not_a_phone_number: It is not a phone number
+invalid_credentials: Invalid username or password
+invalid_verification_code_format: Invalid format of verification code
+email_too_long: Email should contain at most 47 characters
+invalid_email_verification: Email address is not verified.
+invalid_phone_verification: Phone number is not verified.
+countries_restriction: Please note that this service is not available for residents from selected country.
+latin_letters_only: This field accepts only latin letters
+invalid_city_format: City name accepts only latin letters and must be 3 to 128 letters long
+invalid_address_format: Address field accepts only latin letters and must be 3 to 128 letters long
+form_saved_successfully: Form saved successfully!
+form_contains_error: Form contains errors. Please check the data entered.
+verification_code_email_confirmation: Registration confirmation code was sent to {{email}}
+verification_code_confirmation: Confirmation code was sent to {{phone_number}}
+verification_call_confirmation: Please wait our automatic call to {{phone_number}}
+login_invalid_verification.email: Your email address is not verified. <a class="verify-link">Verify email</a>
+login_invalid_verification.phone: Your phone number is not verified. <a class="verify-link">Verify phone</a>
+required: Field is required
+invalid_number: Field must be a number
+invalid_email: The email must be valid
+invalid_phone: The phone must be valid
+file_size_exceeded: The file size exceeded the limit. Please try to upload another file
+invalid_password: Enter a valid password
+email_already_used: Email already in use.
+api.internal_error.message: "Something went wrong. Error code is error_code."
+common.section.error.modal_text: "Don't worry. It's not you, it's us."
+common.title.internal_error: "Internal server error"
+otp.delivery_method_is_empty: "Delivery Method can not be empty"
+otp.delivery_method_is_unknown: "You've provided unknown delivery method"
+otp.delivery_method_is_not_supported_in_operated_country: "Delivery method is not supported in your country"
+mask: Incorrect format
+user_is_not_authenticated: User is not authenticated
+2fa.setup_action_invalid_approval_code: "Invalid code"
