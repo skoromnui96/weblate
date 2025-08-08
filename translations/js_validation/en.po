@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Weblate Conversion\n"
+
+msgid "verification_code.minlength"
+msgstr "Verification code must contain at least %length% digits"
+
+msgid "verification_code.maxlength"
+msgstr "Verification code must contain no more than %length% digits"
+
+msgid "verification.birthday.invalid_age"
+msgstr "To proceed with account verification, you need to be at least 18 years old."
+
+msgid "invalid_proper_name"
+msgstr "Invalid proper name"
+
+msgid "max_transfer_amount_exceeded"
+msgstr "Max transfer amount of {{ amount }} is exceeded."
+
+msgid "allow_only_latin_letters"
+msgstr "Must contain only latin letters"
+
+msgid "allow_only_latin_letters_and_digits"
+msgstr "Must contain only latin letters and digits"
+
+msgid "password_simple"
+msgstr "Password is too simple"
+
+msgid "phone_not_valid"
+msgstr "Phone number is not valid"
+
+msgid "matches_mt_password"
+msgstr "Trader room password should be different than MT password"
+
+msgid "password_not_match"
+msgstr "The password fields must match"
+
+msgid "does_not_match_zipcode_pattern"
+msgstr "Invalid Zipcode for the selected country"
+
+msgid "invalid_verification_code"
+msgstr "Invalid verification code"
+
+msgid "pattern"
+msgstr "Pattern"
+
+msgid "password.matches_user_password"
+msgstr "MT4 terminal password should be different than Trader Room password."
+
+msgid "password.min_message"
+msgstr "Password must contain at least {{ limit }} digits"
+
+msgid "password.max_message"
+msgstr "Password must contain no more than {{ limit }} digits"
+
+msgid "password.too_simple"
+msgstr "\"Password must contain at least two of three character types: lowercase, uppercase or digits.\""
+
+msgid "password.allow_only_latin_letters_and_digits"
+msgstr "\"Password can contain only latin letters, digits and some special symbols: ~`!@#$%^&*()-_+{}[];:\"<>,./?\""
+
+msgid "text.minlength"
+msgstr "Value too short. Minimum input length is %length% symbols"
+
+msgid "text.maxlength"
+msgstr "Value too long. Maximum input length is %length% symbols"
+
+msgid "mobile_phone.not_a_number"
+msgstr "The entered value does not seem to a phone number"
+
+msgid "mobile_phone.invalid"
+msgstr "Invalid mobile phone number"
+
+msgid "mobile_phone.too_short"
+msgstr "Entered value is too short for a mobile phone"
+
+msgid "mobile_phone.too_long"
+msgstr "Entered value is too long for a mobile phone"
+
+msgid "mobile_phone.invalid_country"
+msgstr "The entered nubmer does not belong to the country"
+
+msgid "phone_number_already_verified"
+msgstr "Phone number is already verified"
+
+msgid "email_address_already_verified"
+msgstr "Email address is already verified"
+
+msgid "change_verified_email_not_allowed"
+msgstr "Cannot change verified email address"
+
+msgid "verified_user_change_field_not_allowed"
+msgstr "Cannot change %field% of a verified user"
+
+msgid "document.invalid_country"
+msgstr "\"{{ value }} upload is not available in this country\""
+
+msgid "validation_failed"
+msgstr "Validation failed."
+
+msgid "date.invalid_format"
+msgstr "Invalid date format."
+
+msgid "date.adult_error"
+msgstr "You must be at least 18 years old."
+
+msgid "account.id.does_not_exist"
+msgstr "\"Account #{{ value }} does not exist.\""
+
+msgid "account.id.does_not_belong_to_user"
+msgstr "\"Account #{{ accountId }} does not belong to user {{ userId }}.\""
+
+msgid "account.id.does_not_belong_to_user_by_partner_account_number"
+msgstr "\"Partner account #{{ accountNumber }} does not belong to user {{ userId }}.\""
+
+msgid "welcome_bonus.id.limit_has_been_reached"
+msgstr "\"Limit of accounts for welcome bonus has been reached for user {{ userId }}.\""
+
+msgid "deposit.amount.below_minimum"
+msgstr "You can deposit a minimum of {{ minimum }} to selected account."
+
+msgid "deposit.amount.above_maximum"
+msgstr "You can deposit up to {{ maximum }} to selected account."
+
+msgid "deposit.amount.unverified_maximum"
+msgstr "You've reached your limit. Verify to proceed."
+
+msgid "deposit.bonus.invalid_value"
+msgstr "\"{{ value }} is not a valid deposit bonus choice. Valid values are {{ choices }}.\""
+
+msgid "deposit.bonus.not_available"
+msgstr "\"{{ value }} is not a available. Available values are {{ choices }}.\""
+
+msgid "withdrawal.account_password.invalid_password"
+msgstr "Invalid account {{ number }} terminal password"
+
+msgid "withdrawal.account_password.account_blocked"
+msgstr "Account is blocked"
+
+msgid "withdrawal.account_password.service_is_unavailable"
+msgstr "Service unavailable"
+
+msgid "withdrawal.amount.below_minimum"
+msgstr "You can withdraw a minimum of {{ minimum }} from selected account."
+
+msgid "withdrawal.amount.above_maximum"
+msgstr "You can withdraw up to {{ maximum }} from selected account."
+
+msgid "withdrawal.requisite.not_found"
+msgstr "\"Withdrawal to requisite {{ requisite }} is not allowed.\""
+
+msgid "withdrawal.requisite.blocked"
+msgstr "\"Requisite {{ requisite }} is blocked for withdrawal till {{ blocked_till }}.\""
+
+msgid "withdrawal.wallet_id.invalid_generated_value"
+msgstr "\"This must be a valid generated wallet id.\""
+
+msgid "withdrawal.wallet_id.since_first_deposit"
+msgstr "\"30 days must pass since first deposit from wallet {{ value }}.\""
+
+msgid "withdrawal.bitcoin_wallet.invalid_address"
+msgstr "\"This is not a valid BitCoin address.\""
+
+msgid "balance_transaction.id.does_not_exist"
+msgstr "\"Balance transaction #{{ transactionId }} does not exist\""
+
+msgid "balance_transaction.id.does_not_belong_to_user"
+msgstr "\"Balance transaction #{{ transactionId }} does not belong to user.\""
+
+msgid "balance_transaction.status.does_not_match"
+msgstr "\"Balance transaction #{{ transactionId }} is not of {{ status }} status.\""
+
+msgid "balance_transaction.type.does_not_match"
+msgstr "\"Balance transaction #{{ transactionId }} is not of {{ type }} type.\""
+
+msgid "balance_transaction.confirmation.cooldown_not_passed"
+msgstr "\"Wait 45 seconds before requesting new confirmation code\""
+
+msgid "balance_transaction.confirmation.code_expired"
+msgstr "\"Confirmation code has expired\""
+
+msgid "balance_transaction.confirmation.maximum_attempts_reached"
+msgstr "\"You have reached maximum confirmation attempts\""
+
+msgid "balance_transaction.confirmation.expired"
+msgstr "\"Transaction #{{ transactionId }} has expired\""
+
+msgid "balance_transaction.confirmation.already_confirmed"
+msgstr "\"Transaction #{{ transactionId }} is already confirmed\""
+
+msgid "balance_transaction.confirmation.insufficient_free_margin"
+msgstr "\"Account #{{ accountNumber }} free margin of {{ freeMargin }} is not enough to block {{ amount }}\""
+
+msgid "transfer.minimal_amount"
+msgstr "\"Minimal transfer amount is {{ amount }}.\""
+
+msgid "transfer.minimal_amount_cent"
+msgstr "\"Minimal transfer amount is {{ amount }} Cent.\""
+
+msgid "transfer.amount_range"
+msgstr "\"This value should be between {{ min }} and {{ max }}\""
+
+msgid "transfer.amount_range_cent"
+msgstr "\"This value should be between {{ min }} Cent and {{ max }} Cent\""
+
+msgid "transfer.not_enough_money"
+msgstr "\"Not enough money\""
+
+msgid "payment_system_alias.not_applicable"
+msgstr "\"{{ value }} is not applicable for {{ type }}.\""
+
+msgid "ecommpay.bank_id.invalid_value"
+msgstr "Invalid bank id. Accepted values are {{ choices }}."
+
+msgid "ecommpay.region_id.invalid_value"
+msgstr "Invalid region id."
+
+msgid "ecommpay.card_token.disabled"
+msgstr "\"Card #{{ value }} is disabled.\""
+
+msgid "ecommpay.card_token.does_not_exist"
+msgstr "\"Card #{{ token }} not found.\""
+
+msgid "ecommpay.card_token.does_not_belong_to_payment_system"
+msgstr "\"Card #{{ token }} does not belong to \"{{ paymentSystem }}\" payment system.\""
+
+msgid "ecommpay.card_token.does_not_belong_to_user"
+msgstr "\"Card #{{ token }} does not belong to currently authenticated user.\""
+
+msgid "ecommpay.card_token.invalid_client_wallet_id"
+msgstr "\"Card #{{ token }} does not correspond to client wallet id {{ value }}.\""
+
+msgid "ecommpay.customer_name.invalid_value"
+msgstr "\"Only letters allowed.\""
+
+msgid "sorexpay.card_id.does_not_exist"
+msgstr "\"Card #{{ id }} not found.\""
+
+msgid "sorexpay.card_id.does_not_belong_to_payment_system"
+msgstr "\"Card #{{ id }} does not belong to \"{{ paymentSystem }}\" payment system.\""
+
+msgid "sorexpay.card_id.does_not_belong_to_user"
+msgstr "\"Card #{{ id }} does not belong to user {{ userId }}.\""
+
+msgid "sorexpay.birthday.less_than_minimum"
+msgstr "\"You have to be at least 18 years old.\""
+
+msgid "pay_today.bank_account_number.invalid_format"
+msgstr "\"Bank account number must consist of digits only.\""
+
+msgid "pay_today.account_holder_name.invalid_format"
+msgstr "\"Only letters allowed.\""
+
+msgid "payzen.customer_bank_account_number.invalid_format"
+msgstr "\"Customer bank account number must consist of digits only.\""
+
+msgid "zota_pay.customer_bank_account_number.invalid_format"
+msgstr "\"Customer bank account number must consist of digits only.\""
+
+msgid "zota_pay.customer_bank_account_name.invalid_format"
+msgstr "\"Only letters allowed.\""
+
+msgid "neteller.wallet_must_be_email"
+msgstr "\"Provided Neteller account number {{ value }} is not valid. Please, use email format.\""
+
+msgid "flexagon.bank_account_number.invalid_format"
+msgstr "\"Bank account number must consist of digits only.\""
+
+msgid "flexagon.bank_account_holder_name.invalid_format"
+msgstr "\"Only letters allowed.\""
+
+msgid "flexagon.bank_name.invalid_value"
+msgstr "\"Only the Latin alphabet allowed.\""
+
+msgid "flexagon.swift_code.invalid_value"
+msgstr "\"Only the Latin alphabet and digits allowed.\""
+
+msgid "offline_bank.bank_account_number.invalid_format"
+msgstr "\"Bank account number must consist of digits only.\""
+
+msgid "offline_bank.bank_account_holder.invalid_format"
+msgstr "\"Only letters allowed.\""
+
+msgid "echelon_pay.bank_account_number.invalid_format"
+msgstr "\"Bank account number must consist of digits only.\""
+
+msgid "echelon_pay.bank_account_holder.invalid_value"
+msgstr "\"Only letters allowed.\""
+
+msgid "awe_pay.account_number.invalid_format"
+msgstr "\"Bank account number must consist of digits only.\""
+
+msgid "awe_pay.account_name.invalid_format"
+msgstr "\"Only letters allowed.\""
+
+msgid "awe_pay.required_for_not_va_and_qr_banks"
+msgstr "\"This field is required.\""
+
+msgid "refer_friend.wrong_referral_code"
+msgstr "Wrong referral code."
+
+msgid "refer_friend.invalid_country"
+msgstr "Your country is not eligible for the participation."
+
+msgid "validator.payment_account.already_used"
+msgstr "Payment account already used"
+
+msgid "validator.bank_code.invalid"
+msgstr "Bank code is not valid"
+
+msgid "validator.phone_number.empty"
+msgstr "Field can't be empty"
+
+msgid "validator.phone_number.invalid"
+msgstr "Phone number is not valid"
+
+msgid "validator.bank_name.empty"
+msgstr "Field can't be empty"
+
+msgid "validator.bank_account_holder_name.empty"
+msgstr "Field can't be empty"
+
+msgid "validator.bank_account_holder_name.invalid"
+msgstr "Only letters allowed"
+
+msgid "validator.bank_account_number.empty"
+msgstr "Field can't be empty"
+
+msgid "validator.bank_account_number.invalid"
+msgstr "Bank account number must consist of digits only"
+
+msgid "validator.bank_branch.empty"
+msgstr "Field can't be empty"
+
+msgid "validator.bank_branch.invalid"
+msgstr "Bank account number must consist of digits only"
+
+msgid "validator.crypto_wallet.invalid"
+msgstr "Invalid crypto address"
+
+msgid "validator.crypto_wallet.unsupported"
+msgstr "Currently we only support LTC legacy addresses."
+
+msgid "validator.cryptocurrency.empty"
+msgstr "Field can't be empty"
+
+msgid "validator.cryptocurrency.invalid"
+msgstr "Cryptocurrency is not support"
+
+msgid "validator.destination_tag.required"
+msgstr "Destination Tag is required"
+
+msgid "validator.destination_tag.invalid_format"
+msgstr "Destination Tag must consist of digits only"
+
+msgid "validator.email.invalid"
+msgstr "The field must contain valid e-mail address"
+
+msgid "validator.city.maxlength"
+msgstr "City can't be longer than 31 characters"
+
+msgid "validator.state.maxlength"
+msgstr "State can't be longer than 31 characters"
+
+msgid "kiber_pay.payment_method.invalid_value"
+msgstr "Invalid payment method."
+
+msgid "kiber_pay.phone_number.empty"
+msgstr "Field can't be empty"
+
+msgid "kiber_pay.phone_number.invalid"
+msgstr "Phone number is not valid"
+
+msgid "invalid_uppercase"
+msgstr "Only capital letters and digits allowed."
+
+msgid "field_is_required"
+msgstr "This field is required"
+
+msgid "input_too_short"
+msgstr "Field value must be at least {{min}} symbols long"
+
+msgid "input_too_long"
+msgstr "Field value must be at most {{max}} symbols long"
+
+msgid "only_mobile_number"
+msgstr "Only mobile number is allowed"
+
+msgid "invalid_country_code"
+msgstr "Invalid country code"
+
+msgid "phone_number_too_long"
+msgstr "The phone number is too long"
+
+msgid "phone_number_too_short"
+msgstr "The phone number is too short"
+
+msgid "not_a_phone_number"
+msgstr "It is not a phone number"
+
+msgid "invalid_credentials"
+msgstr "Invalid username or password"
+
+msgid "invalid_verification_code_format"
+msgstr "Invalid format of verification code"
+
+msgid "email_too_long"
+msgstr "Email should contain at most 47 characters"
+
+msgid "invalid_email_verification"
+msgstr "Email address is not verified."
+
+msgid "invalid_phone_verification"
+msgstr "Phone number is not verified."
+
+msgid "countries_restriction"
+msgstr "Please note that this service is not available for residents from selected country."
+
+msgid "latin_letters_only"
+msgstr "This field accepts only latin letters"
+
+msgid "invalid_city_format"
+msgstr "City name accepts only latin letters and must be 3 to 128 letters long"
+
+msgid "invalid_address_format"
+msgstr "Address field accepts only latin letters and must be 3 to 128 letters long"
+
+msgid "form_saved_successfully"
+msgstr "Form saved successfully!"
+
+msgid "form_contains_error"
+msgstr "Form contains errors. Please check the data entered."
+
+msgid "verification_code_email_confirmation"
+msgstr "Registration confirmation code was sent to {{email}}"
+
+msgid "verification_code_confirmation"
+msgstr "Confirmation code was sent to {{phone_number}}"
+
+msgid "verification_call_confirmation"
+msgstr "Please wait our automatic call to {{phone_number}}"
+
+msgid "login_invalid_verification.email"
+msgstr "Your email address is not verified. <a class=\"verify-link\">Verify email</a>"
+
+msgid "login_invalid_verification.phone"
+msgstr "Your phone number is not verified. <a class=\"verify-link\">Verify phone</a>"
+
+msgid "required"
+msgstr "Field is required"
+
+msgid "invalid_number"
+msgstr "Field must be a number"
+
+msgid "invalid_email"
+msgstr "The email must be valid"
+
+msgid "invalid_phone"
+msgstr "The phone must be valid"
+
+msgid "file_size_exceeded"
+msgstr "The file size exceeded the limit. Please try to upload another file"
+
+msgid "invalid_password"
+msgstr "Enter a valid password"
+
+msgid "email_already_used"
+msgstr "Email already in use."
+
+msgid "api.internal_error.message"
+msgstr "\"Something went wrong. Error code is error_code.\""
+
+msgid "common.section.error.modal_text"
+msgstr "\"Don't worry. It's not you, it's us.\""
+
+msgid "common.title.internal_error"
+msgstr "\"Internal server error\""
+
+msgid "otp.delivery_method_is_empty"
+msgstr "\"Delivery Method can not be empty\""
+
+msgid "otp.delivery_method_is_unknown"
+msgstr "\"You've provided unknown delivery method\""
+
+msgid "otp.delivery_method_is_not_supported_in_operated_country"
+msgstr "\"Delivery method is not supported in your country\""
+
+msgid "mask"
+msgstr "Incorrect format"
+
+msgid "user_is_not_authenticated"
+msgstr "User is not authenticated"
+
+msgid "2fa.setup_action_invalid_approval_code"
+msgstr "\"Invalid code\""

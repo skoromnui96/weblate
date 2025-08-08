@@ -1,0 +1,496 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Weblate Indonesian\n"
+
+msgid "verification_code.minlength"
+msgstr ""
+
+msgid "verification_code.maxlength"
+msgstr ""
+
+msgid "verification.birthday.invalid_age"
+msgstr "Untuk melanjutkan verifikasi akun, Anda harus berusia minimal 18 tahun"
+
+msgid "invalid_proper_name"
+msgstr ""
+
+msgid "max_transfer_amount_exceeded"
+msgstr ""
+
+msgid "allow_only_latin_letters"
+msgstr "Anda hanya dapat menggunakan huruf besar dan kecil."
+
+msgid "allow_only_latin_letters_and_digits"
+msgstr ""
+
+msgid "password_simple"
+msgstr ""
+
+msgid "phone_not_valid"
+msgstr ""
+
+msgid "matches_mt_password"
+msgstr ""
+
+msgid "password_not_match"
+msgstr ""
+
+msgid "does_not_match_zipcode_pattern"
+msgstr ""
+
+msgid "invalid_verification_code"
+msgstr ""
+
+msgid "pattern"
+msgstr ""
+
+msgid "password.matches_user_password"
+msgstr ""
+
+msgid "password.min_message"
+msgstr ""
+
+msgid "password.max_message"
+msgstr ""
+
+msgid "password.too_simple"
+msgstr ""
+
+msgid "password.allow_only_latin_letters_and_digits"
+msgstr ""
+
+msgid "text.minlength"
+msgstr ""
+
+msgid "text.maxlength"
+msgstr ""
+
+msgid "mobile_phone.not_a_number"
+msgstr ""
+
+msgid "mobile_phone.invalid"
+msgstr ""
+
+msgid "mobile_phone.too_short"
+msgstr ""
+
+msgid "mobile_phone.too_long"
+msgstr ""
+
+msgid "mobile_phone.invalid_country"
+msgstr ""
+
+msgid "phone_number_already_verified"
+msgstr ""
+
+msgid "email_address_already_verified"
+msgstr ""
+
+msgid "change_verified_email_not_allowed"
+msgstr ""
+
+msgid "verified_user_change_field_not_allowed"
+msgstr ""
+
+msgid "document.invalid_country"
+msgstr ""
+
+msgid "validation_failed"
+msgstr "Validasi gagal."
+
+msgid "date.invalid_format"
+msgstr ""
+
+msgid "date.adult_error"
+msgstr ""
+
+msgid "account.id.does_not_exist"
+msgstr "Akun #{{ value }} tidak ada."
+
+msgid "account.id.does_not_belong_to_user"
+msgstr "Akun #{{ accountId }} tidak terdaftar di {{ userId}}."
+
+msgid "account.id.does_not_belong_to_user_by_partner_account_number"
+msgstr ""
+
+msgid "welcome_bonus.id.limit_has_been_reached"
+msgstr ""
+
+msgid "deposit.amount.below_minimum"
+msgstr "Deposit minimum {{ minimum }}."
+
+msgid "deposit.amount.above_maximum"
+msgstr "Deposit maksimum {{ maximum }}."
+
+msgid "deposit.amount.unverified_maximum"
+msgstr ""
+
+msgid "deposit.bonus.invalid_value"
+msgstr ""
+
+msgid "deposit.bonus.not_available"
+msgstr ""
+
+msgid "withdrawal.account_password.invalid_password"
+msgstr "Akun tidak berlaku {{ number }} sandi terminal"
+
+msgid "withdrawal.account_password.account_blocked"
+msgstr "Akun diblok"
+
+msgid "withdrawal.account_password.service_is_unavailable"
+msgstr "Layanan tidak tersedia"
+
+msgid "withdrawal.amount.below_minimum"
+msgstr "Penarikan minimum {{ minimum }}."
+
+msgid "withdrawal.amount.above_maximum"
+msgstr "Penarikan maksimum {{ maximum }}."
+
+msgid "withdrawal.requisite.not_found"
+msgstr ""
+
+msgid "withdrawal.requisite.blocked"
+msgstr ""
+
+msgid "withdrawal.wallet_id.invalid_generated_value"
+msgstr "Dipastikan wallet ID yang sah"
+
+msgid "withdrawal.wallet_id.since_first_deposit"
+msgstr "30 hari terhitung sejak deposit pertama dari wallet {{ value }}."
+
+msgid "withdrawal.bitcoin_wallet.invalid_address"
+msgstr "Ini bukan alamat BitCoin yang sah."
+
+msgid "balance_transaction.id.does_not_exist"
+msgstr ""
+
+msgid "balance_transaction.id.does_not_belong_to_user"
+msgstr ""
+
+msgid "balance_transaction.status.does_not_match"
+msgstr ""
+
+msgid "balance_transaction.type.does_not_match"
+msgstr ""
+
+msgid "balance_transaction.confirmation.cooldown_not_passed"
+msgstr "Mohon tunggu 45 detik sebelum meminta kode konfirmasi yang baru"
+
+msgid "balance_transaction.confirmation.code_expired"
+msgstr "Kode konfirmasi kadaluarsa"
+
+msgid "balance_transaction.confirmation.maximum_attempts_reached"
+msgstr "Anda telah mencapai batas konfirmasi maksimum"
+
+msgid "balance_transaction.confirmation.expired"
+msgstr "Transaksi #{{ transactionId }} kadaluarsa"
+
+msgid "balance_transaction.confirmation.already_confirmed"
+msgstr "Transaksi #{{ transactionId }} terkonfirmasi"
+
+msgid "balance_transaction.confirmation.insufficient_free_margin"
+msgstr "Jumlah maksimum yang dapat Anda tarik mengalami perubahan karena pada akun #{{ accountNumber }} free margin tidak mencukupi untuk memblokir jumlah penarikan {{ amount }}. Free margin pada akun Anda berubah karena posisi terbuka di akun Anda. Free margin saat ini: {{ freeMargin }}. Mohon kembali ke halaman sebelumnya dan pilih jumlah penarikan baru yang tersedia."
+
+msgid "transfer.minimal_amount"
+msgstr ""
+
+msgid "transfer.minimal_amount_cent"
+msgstr ""
+
+msgid "transfer.amount_range"
+msgstr ""
+
+msgid "transfer.amount_range_cent"
+msgstr ""
+
+msgid "transfer.not_enough_money"
+msgstr ""
+
+msgid "payment_system_alias.not_applicable"
+msgstr "{{ value }} tidak berlaku untuk {{ type }}."
+
+msgid "ecommpay.bank_id.invalid_value"
+msgstr "ID bank tidak sah. Angka yang diterima adalah {{ choices }}. "
+
+msgid "ecommpay.region_id.invalid_value"
+msgstr "ID wilayah tidak sah."
+
+msgid "ecommpay.card_token.disabled"
+msgstr "Kartu #{{ value }} dinonaktifkan."
+
+msgid "ecommpay.card_token.does_not_exist"
+msgstr "Kartu #{{ token }} tidak ditemukan."
+
+msgid "ecommpay.card_token.does_not_belong_to_payment_system"
+msgstr "Kartu #{{ token }} tidak terkait dengan \"{{ paymentSystem }}\" sistem pembayaran."
+
+msgid "ecommpay.card_token.does_not_belong_to_user"
+msgstr "Kartu #{{ token }} tidak terkait dengan pengguna yang terdaftar saat ini."
+
+msgid "ecommpay.card_token.invalid_client_wallet_id"
+msgstr "Kartu #{{ token }} tidak sesuai dengan id wallet klien {{ value }}."
+
+msgid "ecommpay.customer_name.invalid_value"
+msgstr ""
+
+msgid "sorexpay.card_id.does_not_exist"
+msgstr "Kartu #{{ id }} tidak ditemukan."
+
+msgid "sorexpay.card_id.does_not_belong_to_payment_system"
+msgstr "Kartu #{{ id }} tidak terkait dengan \"{{ paymentSystem }}\" sistem pembayaran."
+
+msgid "sorexpay.card_id.does_not_belong_to_user"
+msgstr "Kartu #{{ id }} tidka terkait dengan pengguna {{ userId }}."
+
+msgid "sorexpay.birthday.less_than_minimum"
+msgstr "Anda harus berusia minimum 18 tahun."
+
+msgid "pay_today.bank_account_number.invalid_format"
+msgstr ""
+
+msgid "pay_today.account_holder_name.invalid_format"
+msgstr ""
+
+msgid "payzen.customer_bank_account_number.invalid_format"
+msgstr ""
+
+msgid "zota_pay.customer_bank_account_number.invalid_format"
+msgstr ""
+
+msgid "zota_pay.customer_bank_account_name.invalid_format"
+msgstr ""
+
+msgid "neteller.wallet_must_be_email"
+msgstr ""
+
+msgid "flexagon.bank_account_number.invalid_format"
+msgstr ""
+
+msgid "flexagon.bank_account_holder_name.invalid_format"
+msgstr ""
+
+msgid "flexagon.bank_name.invalid_value"
+msgstr ""
+
+msgid "flexagon.swift_code.invalid_value"
+msgstr ""
+
+msgid "offline_bank.bank_account_number.invalid_format"
+msgstr ""
+
+msgid "offline_bank.bank_account_holder.invalid_format"
+msgstr ""
+
+msgid "echelon_pay.bank_account_number.invalid_format"
+msgstr ""
+
+msgid "echelon_pay.bank_account_holder.invalid_value"
+msgstr ""
+
+msgid "awe_pay.account_number.invalid_format"
+msgstr ""
+
+msgid "awe_pay.account_name.invalid_format"
+msgstr ""
+
+msgid "awe_pay.required_for_not_va_and_qr_banks"
+msgstr ""
+
+msgid "refer_friend.wrong_referral_code"
+msgstr "Kode referral salah."
+
+msgid "refer_friend.invalid_country"
+msgstr "Negara Anda tidak dapat berpartisipasi."
+
+msgid "validator.payment_account.already_used"
+msgstr ""
+
+msgid "validator.bank_code.invalid"
+msgstr ""
+
+msgid "validator.phone_number.empty"
+msgstr ""
+
+msgid "validator.phone_number.invalid"
+msgstr ""
+
+msgid "validator.bank_name.empty"
+msgstr ""
+
+msgid "validator.bank_account_holder_name.empty"
+msgstr ""
+
+msgid "validator.bank_account_holder_name.invalid"
+msgstr ""
+
+msgid "validator.bank_account_number.empty"
+msgstr ""
+
+msgid "validator.bank_account_number.invalid"
+msgstr ""
+
+msgid "validator.bank_branch.empty"
+msgstr ""
+
+msgid "validator.bank_branch.invalid"
+msgstr ""
+
+msgid "validator.crypto_wallet.invalid"
+msgstr ""
+
+msgid "validator.crypto_wallet.unsupported"
+msgstr ""
+
+msgid "validator.cryptocurrency.empty"
+msgstr ""
+
+msgid "validator.cryptocurrency.invalid"
+msgstr ""
+
+msgid "validator.destination_tag.required"
+msgstr ""
+
+msgid "validator.destination_tag.invalid_format"
+msgstr ""
+
+msgid "validator.email.invalid"
+msgstr "Bidang ini harus berisi alamat e-mail yang valid"
+
+msgid "validator.city.maxlength"
+msgstr "Kota tidak boleh lebih dari 31 karakter"
+
+msgid "validator.state.maxlength"
+msgstr "Negara bagian tidak boleh lebih dari 31 karakter"
+
+msgid "kiber_pay.payment_method.invalid_value"
+msgstr ""
+
+msgid "kiber_pay.phone_number.empty"
+msgstr ""
+
+msgid "kiber_pay.phone_number.invalid"
+msgstr ""
+
+msgid "invalid_uppercase"
+msgstr ""
+
+msgid "field_is_required"
+msgstr ""
+
+msgid "input_too_short"
+msgstr ""
+
+msgid "input_too_long"
+msgstr ""
+
+msgid "only_mobile_number"
+msgstr ""
+
+msgid "invalid_country_code"
+msgstr ""
+
+msgid "phone_number_too_long"
+msgstr ""
+
+msgid "phone_number_too_short"
+msgstr ""
+
+msgid "not_a_phone_number"
+msgstr ""
+
+msgid "invalid_credentials"
+msgstr ""
+
+msgid "invalid_verification_code_format"
+msgstr ""
+
+msgid "email_too_long"
+msgstr ""
+
+msgid "invalid_email_verification"
+msgstr ""
+
+msgid "invalid_phone_verification"
+msgstr ""
+
+msgid "countries_restriction"
+msgstr ""
+
+msgid "latin_letters_only"
+msgstr "Anda hanya dapat menggunakan huruf besar dan kecil. e.g. AbCdE"
+
+msgid "invalid_city_format"
+msgstr ""
+
+msgid "invalid_address_format"
+msgstr ""
+
+msgid "form_saved_successfully"
+msgstr ""
+
+msgid "form_contains_error"
+msgstr ""
+
+msgid "verification_code_email_confirmation"
+msgstr ""
+
+msgid "verification_code_confirmation"
+msgstr ""
+
+msgid "verification_call_confirmation"
+msgstr ""
+
+msgid "login_invalid_verification.email"
+msgstr "Email Anda belum terverifikasi. <a class=\"verify-link\">Verify email</a>"
+
+msgid "login_invalid_verification.phone"
+msgstr "Nomor telepon Anda belum terverifikasi. <a class=\"verify-link\">Verify phone</a>"
+
+msgid "required"
+msgstr "Bidang ini wajib diisi"
+
+msgid "invalid_number"
+msgstr ""
+
+msgid "invalid_email"
+msgstr "Masukkan email yang valid"
+
+msgid "invalid_phone"
+msgstr "Masukkan nomor telepon yang valid"
+
+msgid "file_size_exceeded"
+msgstr ""
+
+msgid "invalid_password"
+msgstr "Masukkan kata sandi yang valid"
+
+msgid "email_already_used"
+msgstr ""
+
+msgid "api.internal_error.message"
+msgstr "Terjadi kesalahan. Kode kesalahan adalah error_code."
+
+msgid "common.section.error.modal_text"
+msgstr "Jangan khawatir. Kesalahan bukan pada Anda."
+
+msgid "common.title.internal_error"
+msgstr "Kesalahan server internal"
+
+msgid "otp.delivery_method_is_empty"
+msgstr ""
+
+msgid "otp.delivery_method_is_unknown"
+msgstr ""
+
+msgid "otp.delivery_method_is_not_supported_in_operated_country"
+msgstr ""
+
+msgid "mask"
+msgstr "Format tidak benar"
+
+msgid "user_is_not_authenticated"
+msgstr "Pengguna belum terautentikasi"
+
+msgid "2fa.setup_action_invalid_approval_code"
+msgstr "Kode tidak valid"
