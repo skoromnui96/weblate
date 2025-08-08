@@ -1,0 +1,1243 @@
+2fa.forms.code.buttons.verify: Verifikasi
+2fa.forms.code.errors.max_attempt_reached: Jumlah percobaan maksimum telah tercapai.
+  Coba lagi dalam {{minutes}} menit.
+2fa.forms.code.fields.code: Kode
+2fa.forms.code.fields.save_trusted_device: Ingat browser ini selama 30 hari.
+2fa.hints.support: Tidak dapat menerima kode? Silakan hubungi dukungan kami melalui
+  live-chat atau telepon.
+2fa.setup.action_approval_code_sent.email: Kode konfirmasi tindakan telah dikirim
+  ke {{recipient}}
+2fa.setup.action_approval_code_sent.sms: Kode konfirmasi tindakan telah dikirim ke
+  {{recipient}}
+2fa.setup.instruction: 'Unduh salah satu aplikasi Authenticator untuk menerima kode.
+  Aplikasi dapat diunduh dari App Store atau Google Play. Aplikasi yang disarankan:
+  Google Authenticator, Authy, Microsoft Authenticator'
+2fa.setup.successfully_enabled: Metode 2FA berhasil diaktifkan.
+2fa.title: Otentikasi diperlukan
+Validation Failed: ''
+account_action.activateS4uLeader: ''
+account_action.archive: ''
+account_action.changeLeverage: Ubah Leverage
+account_action.changeMtPassword: Ubah Kata Sandi
+account_action.convertToLeader: Ubah ke Leader
+account_action.deactivateS4uLeader: ''
+account_action.deposit: Pendanaan
+account_action.details: ''
+account_action.disableFollowerAutoProcessing: Memproses pengikut secara manual
+account_action.enableFollowerAutoProcessing: Memproses pengikut baru secara otomatis
+account_action.openOrders: Buka Order
+account_action.orderHistory: Riwayat Order
+account_action.overview: ''
+account_action.pammInvestmentDetails: ''
+account_action.pammInvestmentIncome: ''
+account_action.pammInvestorActivities: ''
+account_action.pammInvestors: ''
+account_action.pammOffers: ''
+account_action.pammOverview: ''
+account_action.partnerAds: Ruang Pemasaran
+account_action.partnerClients: Kinerja klien
+account_action.partnerExternalTransfer: ''
+account_action.partnerIncome: ''
+account_action.partnerNetwork: ''
+account_action.partnerStatistics: Statistik
+account_action.partnerTransfer: ''
+account_action.pauseS4uLeader: ''
+account_action.resumeS4uLeader: ''
+account_action.s4uFollowerSettings: ''
+account_action.s4uLeaderSettings: Pengaturan
+account_action.setS4uLeaderPrivate: ''
+account_action.setS4uLeaderPublic: ''
+account_action.tradeHistory: Sejarah trading
+account_action.transfer: Transfer
+account_action.unarchive: ''
+account_action.virtualDeposit: ''
+account_action.withdraw: Penarikan
+account_registration.success.title: ''
+accounts.collapse: ''
+accounts.counts: ''
+accounts.expand: ''
+accounts.manage: Kelola Akun
+accounts.overview.markup.091.description: ''
+accounts.overview.markup.091.title: Markup afiliasi
+accounts.overview.markup.126.description: ''
+accounts.overview.markup.126.title: Markup afiliasi
+accounts.overview.markup.markup15.description: ''
+accounts.overview.markup.markup15.title: ''
+accounts.overview.markup.markup15mtp.description: ''
+accounts.overview.markup.markup15mtp.title: ''
+accounts.overview.markup.markup17.description: ''
+accounts.overview.markup.markup17.title: Markup afiliasi
+accounts.overview.markup.markup2.description: ''
+accounts.overview.markup.markup2.title: ''
+accounts.overview.markup.markup30.description: ''
+accounts.overview.markup.markup30.title: ''
+accounts.overview.markup.markup40.description: ''
+accounts.overview.markup.markup40.title: ''
+accounts.overview.markup.markup50.description: ''
+accounts.overview.markup.markup50.title: ''
+accounts.overview.markup.markup7.description: ''
+accounts.overview.markup.markup7.title: ''
+accounts.overview.markup.markup7mtp.description: ''
+accounts.overview.markup.markup7mtp.title: ''
+accounts.overview.markup.s17.description: ''
+accounts.overview.markup.s17.title: ''
+accounts.overview.partner_affid.description: Ketentuan trading khusus berlaku. Spread
+  akhir dapat dilihat di terminal trading.
+accounts.overview.partner_affid.title: Kondisi khusus
+accounts.section.alert.action_error: ''
+accounts.section.archived.title: ''
+accounts.section.pamm_investment.create_callout: ''
+accounts.section.pamm_investment.title: ''
+accounts.section.partner.title: ''
+accounts.section.share_follower.create_callout: Jelajahi peluang investasi Share4you
+  dengan menekan tombol di bawah ini!
+accounts.section.share_follower.title: Akun Follower Share4you
+accounts.section.share_leader.create_callout: Jadilah Leader Share4you! Perbanyak
+  pemasukan Anda dengan berbagi trade.
+accounts.section.share_leader.title: Akun Leader Share4you
+accounts.section.trader.create_callout: ''
+accounts.section.trader.title: Akun Trader
+accounts.switcher.group.demo: ''
+accounts.switcher.group.pamm_investment: ''
+accounts.switcher.group.pamm_master: ''
+accounts.switcher.group.partner: ''
+accounts.switcher.group.share_follower: ''
+accounts.switcher.group.share_leader: ''
+accounts.switcher.group.trader: ''
+affid.warning: Silakan periksa kode Partner Anda dengan cermat karena tidak dapat
+  diubah nanti.
+check_markup: Periksa kondisi khusus.
+client_profile.grid.label.cent_mt4: ''
+client_profile.grid.label.cent_ndd_mt4: ''
+client_profile.grid.label.classic_mt4: ''
+client_profile.grid.label.classic_ndd_mt4: ''
+client_profile.grid.label.classic_ndd_mt5: ''
+client_profile.grid.label.pro_stp_mt4: ''
+client_profile.grid.label.pro_stp_mt5: ''
+client_profile.grid.label.pro_stp_standard_mt4: ''
+client_profile.grid.label.pro_stp_standard_mt5: ''
+copyright.forex4you.svg: Markets4you © Hak Cipta 2007-2024 E-Global Trade & Finance
+  Group
+countries.my: ''
+countries.th: ''
+countries.vn: ''
+countries_restriction: ''
+date_range.1m: ''
+date_range.1y: ''
+date_range.2y: ''
+date_range.3d: ''
+date_range.3m: ''
+date_range.5y: ''
+date_range.6m: ''
+date_range.7d: 7 hari
+date_range.all: Semua
+date_range.custom: ''
+date_range.today: Hari ini
+email.already_exist: Seorang pengguna dengan email ini sudah ada
+email_too_long: ''
+field_is_required: ''
+footer.client_agreement.title: ''
+footer.client_agreement.url.forex4you.bvi: ''
+footer.client_agreement.url.forex4you.by: ''
+footer.client_agreement.url.forex4you.mu: ''
+footer.client_agreement.url.forex4you.svg: ''
+footer.client_agreement.url.markets4you.bvi: ''
+footer.client_agreement.url.markets4you.by: ''
+footer.client_agreement.url.markets4you.mu: ''
+footer.client_agreement.url.markets4you.svg: ''
+footer.complaints.title: Keluhan
+footer.complaints.url.forex4you.bvi: ''
+footer.complaints.url.forex4you.by: ''
+footer.complaints.url.forex4you.mu: ''
+footer.complaints.url.forex4you.svg: ''
+footer.complaints.url.markets4you.bvi: ''
+footer.complaints.url.markets4you.by: ''
+footer.complaints.url.markets4you.mu: ''
+footer.complaints.url.markets4you.svg: ''
+footer.copyright.bvi: ''
+footer.copyright.by: ''
+footer.copyright.forex4you.bvi: ''
+footer.copyright.forex4you.by: ''
+footer.copyright.forex4you.mu: ''
+footer.copyright.forex4you.svg: Copyright  © 2007 - {{this_year}} E-Global Trade &
+  Finance SVG LLC.
+footer.copyright.markets4you.bvi: ''
+footer.copyright.markets4you.by: ''
+footer.copyright.markets4you.mu: ''
+footer.copyright.markets4you.svg: Copyright  © 2007 - {{this_year}} E-Global Trade
+  & Finance SVG LLC.
+footer.copyright.mu: ''
+footer.copyright.svg: Copyright  © 2007 - {{this_year}} E-Global Trade & Finance SVG
+  LLC.
+footer.documentation.title: Dokumentasi
+footer.documentation.url.forex4you.bvi: ''
+footer.documentation.url.forex4you.by: ''
+footer.documentation.url.forex4you.mu: ''
+footer.documentation.url.forex4you.svg: ''
+footer.documentation.url.markets4you.bvi: ''
+footer.documentation.url.markets4you.by: ''
+footer.documentation.url.markets4you.mu: ''
+footer.documentation.url.markets4you.svg: ''
+footer.documents.title: Dokumen
+footer.documents.url.bvi: https://{{__public_domain}}/legal-documents/
+footer.documents.url.by: ''
+footer.documents.url.forex4you.bvi: https://{{__public_domain}}/id/legal-documents/
+footer.documents.url.forex4you.by: ''
+footer.documents.url.forex4you.mu: ''
+footer.documents.url.forex4you.svg: https://{{__public_domain}}/legal-documents/
+footer.documents.url.markets4you.bvi: https://{{__public_domain}}/id/legal-documents/
+footer.documents.url.markets4you.by: ''
+footer.documents.url.markets4you.mu: ''
+footer.documents.url.markets4you.svg: https://{{__public_domain}}/id/legal-documents/
+footer.documents.url.mu: ''
+footer.documents.url.svg: https://{{__public_domain}}/legal-documents/
+footer.labels.great: ''
+footer.labels.support: DUKUNGAN 24/7
+footer.labels.trustpilot: Trustpilot
+footer.legal_terms.title: Ketentuan Hukum
+footer.legal_terms.url.bvi: https://{{__public_domain}}m/
+footer.legal_terms.url.by: ''
+footer.legal_terms.url.forex4you.bvi: https://{{__public_domain}}m/
+footer.legal_terms.url.forex4you.by: ''
+footer.legal_terms.url.forex4you.mu: ''
+footer.legal_terms.url.forex4you.svg: https://{{__public_domain}}m/legal-information/
+footer.legal_terms.url.markets4you.bvi: https://{{__public_domain}}m/
+footer.legal_terms.url.markets4you.by: ''
+footer.legal_terms.url.markets4you.mu: ''
+footer.legal_terms.url.markets4you.svg: https://{{__public_domain}}m/legal-information/
+footer.legal_terms.url.mu: ''
+footer.legal_terms.url.svg: https://{{__public_domain}}m/legal-information/
+footer.licence.title: Lisensi
+footer.licence.url.bvi: https://{{__public_domain}}/licence/
+footer.licence.url.by: ''
+footer.licence.url.forex4you.bvi: https://{{__public_domain}}/licence/
+footer.licence.url.forex4you.by: ''
+footer.licence.url.forex4you.mu: ''
+footer.licence.url.forex4you.svg: https://{{__public_domain}}/id/licence/
+footer.licence.url.markets4you.bvi: https://{{__public_domain}}/licence/
+footer.licence.url.markets4you.by: ''
+footer.licence.url.markets4you.mu: ''
+footer.licence.url.markets4you.svg: https://{{__public_domain}}/id/licence/
+footer.licence.url.mu: ''
+footer.licence.url.svg: ''
+footer.privacy_policy.title: Kebijakan Privasi
+footer.privacy_policy.url.bvi: http://{{__public_domain}}m/privacy-policy/
+footer.privacy_policy.url.by: ''
+footer.privacy_policy.url.forex4you.bvi: ''
+footer.privacy_policy.url.forex4you.by: ''
+footer.privacy_policy.url.forex4you.mu: ''
+footer.privacy_policy.url.forex4you.svg: ''
+footer.privacy_policy.url.markets4you.bvi: ''
+footer.privacy_policy.url.markets4you.by: ''
+footer.privacy_policy.url.markets4you.mu: ''
+footer.privacy_policy.url.markets4you.svg: ''
+footer.privacy_policy.url.mu: ''
+footer.privacy_policy.url.svg: ''
+footer.risk_disclosure.title: Pengungkapan risiko
+footer.risk_disclosure.url.forex4you.bvi: ''
+footer.risk_disclosure.url.forex4you.by: ''
+footer.risk_disclosure.url.forex4you.mu: ''
+footer.risk_disclosure.url.forex4you.svg: ''
+footer.risk_disclosure.url.markets4you.bvi: ''
+footer.risk_disclosure.url.markets4you.by: ''
+footer.risk_disclosure.url.markets4you.mu: ''
+footer.risk_disclosure.url.markets4you.svg: ''
+footer.terminals.android.url.bvi: ''
+footer.terminals.android.url.by: ''
+footer.terminals.android.url.mu: ''
+footer.terminals.android.url.svg: ''
+footer.terminals.apple.url.bvi: ''
+footer.terminals.apple.url.by: ''
+footer.terminals.apple.url.mu: ''
+footer.terminals.apple.url.svg: ''
+footer.terminals.desktop.url.bvi: https://{{__public_domain}}m/platforms/
+footer.terminals.desktop.url.by: ''
+footer.terminals.desktop.url.forex4you: ''
+footer.terminals.desktop.url.markets4you: ''
+footer.terminals.desktop.url.mu: ''
+footer.terminals.desktop.url.svg: ''
+footer.terminals.tablet.url.bvi: ''
+footer.terminals.tablet.url.by: ''
+footer.terminals.tablet.url.mu: ''
+footer.terminals.tablet.url.svg: ''
+forgot_password.buttons.back: Kembali
+forgot_password.buttons.continue: Lanjutkan
+forgot_password.complete.action.login.failure: ''
+forgot_password.complete.action.login.pending: Masuk
+forgot_password.complete.action.login.processing: Logging in...
+forgot_password.complete.action.login.success: Anda telah masuk {{__brand}}!
+forgot_password.complete.action.redirect.pending: ''
+forgot_password.complete.action.redirect.processing: Mengarahkan ke Trader Room...
+forgot_password.complete.action.redirect.success: ''
+forgot_password.complete.action.redirect_to_login.processing: ''
+forgot_password.title: Lupa kata sandi
+form_contains_error: ''
+form_saved_successfully: ''
+form_saved_sucessfully: ''
+fxBooleanFilter.false: Tidak
+fxBooleanFilter.true: Ya
+input_too_long: ''
+input_too_short: ''
+invalid_address_format: ''
+invalid_city_format: ''
+invalid_country_code: ''
+invalid_credentials: ''
+invalid_email: Masukkan email yang valid
+invalid_email_verification: ''
+invalid_password: Masukkan kata sandi yang valid
+invalid_phone: Masukkan nomor telepon yang valid
+invalid_phone_verification: ''
+invalid_verification_code_format: ''
+jurisdiction_mismatch_popup.description: ''
+jurisdiction_mismatch_popup.header: ''
+jurisdiction_mismatch_popup.link: ''
+jurisdiction_mismatch_popup.vpn_notice: ''
+language.en: Bahasa Inggris
+language.en_vn: ''
+language.es: Bahasa Spanyol
+language.id: ''
+language.ms: ''
+language.my: Bahasa Melayu
+language.ru: Bahasa Rusia
+language.th: Bahasa Thailand
+language.vi: Bahasa Vietnam
+language.vi_vn: ''
+language.zh: ''
+latin_letters_only: Anda hanya dapat menggunakan huruf besar dan kecil. e.g. AbCdE
+login.invalid_captcha: ''
+login.invalid_token: Sesi Anda telah berakhir. Mohon masuk kembali.
+login_invalid_verification.email: Email Anda belum terverifikasi. <a class="verify-link">Verify
+  email</a>
+login_invalid_verification.phone: Nomor telepon Anda belum terverifikasi. <a class="verify-link">Verify
+  phone</a>
+markets4you.action.redirect: Pergi ke Markets4you
+markets4you.banner.title: Kami sekarang beroperasi sebagai Markets4you. Ikuti tautan
+  untuk membuka Ruang Trader Markets4you Anda.
+markup: Kondisi perdagangan tambahan mungkin berlaku untuk kode partner ini.
+mobile_phone.already_exist: Pengguna dengan nomor telepon ini sudah ada.
+no_markup: Syarat dan ketentuan standar berlaku.
+no_result_found: Tidak ada hasil yang ditemukan
+not_a_phone_number: ''
+only_mobile_number: ''
+paginator.item_range: ''
+paginator.per_page: Lihat
+pamm.inverstor: ''
+pamm.manager: ''
+partner.banners.alert.banners_request_error: ''
+partner.banners.alert.individual_leader_wrong_url: ''
+partner.banners.banner_group.header: ''
+partner.banners.category.accounts: Jenis-Jenis Akun
+partner.banners.category.followers: Untuk Follower
+partner.banners.category.general: Umum
+partner.banners.category.leaders: Untuk Leaders
+partner.banners.category.promotion-win-toyota-fortuner: ''
+partner.banners.category.trade-spec: Pilihan Trading
+partner.banners.common.adwords_header: Adwords
+partner.banners.common.benifits_header: Keuntungan
+partner.banners.common.company_product_description_header: Deskripsi produk dan perusahaan
+partner.banners.common.facebook_header: Facebook
+partner.banners.common.sample_banner_text: ''
+partner.banners.copy.error: ''
+partner.banners.copy.success: ''
+partner.banners.copy.unsupported: ''
+partner.banners.type.facebook: Banner Facebook
+partner.banners.type.web: Banner Web
+partner.logo.errors.request_error: ''
+partner.logo.group.header.forex4you: '{{__brand}}'
+partner.logo.group.header.icons: Ikon
+partner.logo.group.header.markets4you: ''
+partner.logo.group.header.powered_by: ''
+partner.logo.group.header.share4you: Share4you
+partner.marketing.websites.forex4you: https://{{__public_domain}}/
+partner.marketing.websites.forex4you.partners: ''
+partner.marketing.websites.forex4you.public: ''
+partner.marketing.websites.forex4you.registration: https://account.forex4you.online/id/user-registration/
+partner.marketing.websites.markets4you.partners: ''
+partner.marketing.websites.markets4you.public: ''
+partner.marketing.websites.markets4you.registration: https://account.markets4you.online/id/user-registration/
+partner.marketing.websites.partners: https://{{__partner_domain}}/
+partner.marketing.websites.registration: https://{{__tr_domain}}/id/user-registration/
+partner.marketing.websites.share4you: https://www.share4youid.com/
+partner.media.alert.request_error: ''
+partner.media.size.1080p: ''
+partner.media.size.144p: ''
+partner.media.size.240p: ''
+partner.media.size.360p: ''
+partner.media.size.480p: ''
+partner.media.size.720p: ''
+partner.media.size.presentation_large: Besar (1440x839)
+partner.media.size.presentation_medium: Medium (960x569)
+partner.media.size.presentation_small: Kecil ((960x299)
+partner.media.subject.adv-with-google: Iklan dengan Google
+partner.media.subject.analytics: Analitik
+partner.media.subject.create-website: Buat Situs Web
+partner.media.subject.digital-marketing: Pemasaran Digital
+partner.media.subject.email-marketing: Email Pemasaran
+partner.media.subject.sem: Mesin Pencarian Pemasaran
+partner.media.subject.seo: Pengoptimalisasian Mesin Pencarian
+partner.media.subject.share4you-followers: Follower Share4you
+partner.media.subject.share4you-leaders: Leader Share4you
+partner.media.subject.smm: Pemasaran Media Sosial
+partner.presentation.header: Presentasi
+partner.presentation.labels.size: Ukuran Presentasi
+partner.prints.errors.request_error: ''
+partner.prints.group.header.forex4you: '{{__brand}}'
+partner.prints.group.header.partners: Partner
+partner.prints.group.header.share4you-followers: Follower Share4you
+partner.prints.group.header.share4you-leaders: Leader Share4you
+partner.prints.medium.brochure: ''
+partner.prints.medium.rollup: ''
+partner.prints.preview.label.inside_fold: Lipatan Bagian Dalam
+partner.prints.preview.label.outside_fold: Lipatan Bagian Luar
+partner.promotions.alert.request_error: ''
+partner.promotions.brand.forex4you: '{{__brand}}'
+partner.promotions.brand.share4you: Share4you
+partner.promotions.car_lottery.header: ''
+partner.referral_links.link_label.forex4you: ''
+partner.referral_links.link_label.partners: ''
+partner.referral_links.link_label.registration: ''
+partner.referral_links.link_label.registration_cent_ndd: ''
+partner.referral_links.link_label.registration_cent_ndd_mt5: ''
+partner.referral_links.link_label.registration_classic_ndd: ''
+partner.referral_links.link_label.registration_classic_ndd_mt5: ''
+partner.referral_links.link_label.registration_pro_stp_standard: ''
+partner.referral_links.link_label.registration_pro_stp_standard_mt5: ''
+partner.referral_links.link_label.share4you: ''
+partner.video.header: Video
+partner.video.labels.size: Ukuran Video
+partner_affid: Kondisi khusus berlaku.
+partner_clients.client_list.filter.tag.exclude_partner_transfer: Kecualikan transfer
+  mitra
+partner_clients.client_list.filter.tag.keyword: ''
+partner_clients.client_list.filter.tag.level: Tingkat {{value}}
+partner_clients.client_list.filter.tag.only_active: ''
+partner_clients.client_list.filter.tag.partner_accounts: ''
+partner_clients.client_list.grid.header.commission: ''
+partner_clients.client_list.grid.header.country: negara
+partner_clients.client_list.grid.header.created_at: ''
+partner_clients.client_list.grid.header.deposit: ''
+partner_clients.client_list.grid.header.last_activity: ''
+partner_clients.client_list.grid.header.last_deposit: ''
+partner_clients.client_list.grid.header.level: Tingkat
+partner_clients.client_list.grid.header.name: ''
+partner_clients.client_list.grid.header.orders: ''
+partner_clients.client_list.grid.header.partner: ''
+partner_clients.client_list.grid.header.s4u_profit_commission: Komisi Keuntungan S4Y
+partner_clients.client_list.grid.header.s4u_volume_commission: Komisi Volume S4Y
+partner_clients.client_list.grid.header.user_id: ''
+partner_clients.client_list.grid.header.volume: ''
+partner_clients.client_list.grid.header.withdrawal: ''
+partner_clients.client_profile.open_trades: ''
+partner_program.067.title: ''
+partner_program.070.title: ''
+partner_program.071.title: ''
+partner_program.072.title: ''
+partner_program.073.title: ''
+partner_program.077.title: ''
+partner_program.078.title: ''
+partner_program.079.title: Multi-level 2
+partner_program.080.title: ''
+partner_program.081.title: ''
+partner_program.084.title: ''
+partner_program.085.title: ''
+partner_program.086.title: ''
+partner_program.087.title: ''
+partner_program.088.title: ''
+partner_program.089.title: ''
+partner_program.090.title: ''
+partner_program.091.title: ''
+partner_program.092.title: ''
+partner_program.093.title: ''
+partner_program.094.title: Program partner di non-aktif
+partner_program.095.title: ''
+partner_program.097.title: ''
+partner_program.098.title: ''
+partner_program.099.title: ''
+partner_program.100.title: ''
+partner_program.101.title: ''
+partner_program.102.title: ''
+partner_program.103.title: ''
+partner_program.104.title: ''
+partner_program.105.title: ''
+partner_program.106.title: ''
+partner_program.107.title: ''
+partner_program.108.title: ''
+partner_program.109.title: ''
+partner_program.110.title: ''
+partner_program.111.title: ''
+partner_program.112.title: ''
+partner_program.113.title: ''
+partner_program.114.title: ''
+partner_program.115.title: ''
+partner_program.116.title: ''
+partner_program.117.title: ''
+partner_program.118.title: ''
+partner_program.119.title: ''
+partner_program.120.title: ''
+partner_program.121.title: ''
+partner_program.123.title: ''
+partner_program.124.title: ''
+partner_program.125.title: ''
+partner_program.126.title: ''
+partner_program.127.title: ''
+partner_program.128.title: ''
+partner_program.129.title: ''
+partner_program.130.title: ''
+partner_program.131.title: ''
+partner_program.132.title: ''
+partner_program.133.title: ''
+partner_program.134.title: ''
+partner_program.135.title: ''
+partner_program.136.title: ''
+partner_program.137.title: ''
+partner_program.138.title: ''
+partner_program.139.title: ''
+partner_program.A15.title: ''
+partner_program.A7.title: ''
+partner_program.AI.title: Agent
+partner_program.AP.title: Agent
+partner_program.AS.title: Agent
+partner_program.AS2.title: Agent 65%
+partner_program.C0.title: Program partner di non-aktif
+partner_program.IB2.title: ''
+partner_program.IB3.title: ''
+partner_program.IB4.title: ''
+partner_program.IB6.title: ''
+partner_program.IBP.title: Agent
+partner_program.IBR.title: Agent 50%
+partner_program.IBS.title: Agent 75%
+partner_program.L30.title: ''
+partner_program.L40.title: ''
+partner_program.L50.title: ''
+partner_program.LT2.title: ''
+partner_program.LT30.title: <p>Buat jaringan partner Anda sendiri dengan  program
+  "Multilevel". Anda bisa menghasilkan komisi tidak hanya dari trader Anda yang terafiliasi,
+  tapi juga dari para trader yang tertarik dengan partner lain dalam jaringan Anda.
+  Anda mendapatkan komisi sebesar 30% dari spread klien level pertama, 16.7% dari
+  spread klien level kedua, dan 5.6% dari spread klien level ketiga.</p>
+partner_program.LT5.title: ''
+partner_program.LT7.title: Affiliate 7
+partner_program.LT9.title: Affiliate 9
+partner_program.LTA.title: Affiliate
+partner_program.LTN.title: Program mitra Afiliasi 9
+partner_program.LTS.title: Affiliate
+partner_program.M15.title: Pro Markup 15
+partner_program.M17.title: Pro Markup17
+partner_program.M2.title: Pro Markup 2
+partner_program.M30.title: Pro Markup 30
+partner_program.M40.title: Pro Markup 40
+partner_program.M50.title: Pro Markup 50
+partner_program.M7.title: Pro Markup 7
+partner_program.N15.title: ''
+partner_program.N7.title: ''
+partner_program.P0.title: Program partner di non-aktif
+partner_program.S15.title: Pro Markup 15
+partner_program.S17.title: Pro Markup17
+partner_program.S2.title: Pro Markup 2
+partner_program.S30.title: Pro Markup 30
+partner_program.S40.title: Pro Markup 40
+partner_program.S50.title: Pro Markup 50
+partner_program.S7.title: Pro Markup 7
+partner_program.SI.title: Agent
+partner_program.SU2.title: Agent 65%
+partner_program.VS.title: Agent 85%
+partner_program.VU4.title: Agent 85%
+partner_registration.account.login: Nomor akun
+partner_registration.account.password: Kata sandi
+partner_registration.markup.091: ''
+partner_registration.markup.126: ''
+partner_registration.markup.markup15: '15'
+partner_registration.markup.markup17: ''
+partner_registration.markup.markup2: ''
+partner_registration.markup.markup30: ''
+partner_registration.markup.markup40: ''
+partner_registration.markup.markup50: ''
+partner_registration.markup.markup7: '7'
+partner_registration.notification.message: 'Mohon simpan kata sandi Anda, karena akan
+  diperlukan untuk operasi saldo di masa mendatang. Demi alasan keamanan, kami tidak
+  akan mengirimkan kata sandi Anda melalui email, kata sandi ini akan menjadi satu-satunya
+  saat kata sandi ditampilkan. Untuk memulihkan kata sandi Anda, mohon kunjungi link
+  berikut:'
+partner_registration.notification.message_without_link: Mohon simpan kata sandi Anda,
+  karena akan diperlukan untuk operasi saldo di masa mendatang. Demi alasan keamanan,
+  kami tidak akan mengirimkan kata sandi Anda melalui email, kata sandi ini akan menjadi
+  satu-satunya saat kata sandi ditampilkan.
+partner_registration.success.body: 'Temukan detail login akun mitra Anda di bawah
+  ini:'
+partner_wizard.step1.heading: Selamat datang, Mitra yang terhormat!
+partner_wizard.step3.forex_for_you_link: <a href="https://{{__public_domain}}/?affid={{affid}}"
+  target="_blank">{{__public_domain}}/?affid={{affid}}</a>
+partner_wizard.step3.partner_code: ''
+partner_wizard.step3.share_for_you_link: <a href="https://www.share4youid.com/?affid={{affid}}"
+  target="_blank">www.share4youid.com/?affid={{affid}}</a>
+phone_number_too_long: ''
+phone_number_too_short: ''
+public.common.sso.labels.or_via: atau melalui
+public.common.username_input.labels.default: Email atau nomor telepon
+public.common.username_input.labels.email: Email
+public.common.username_input.labels.phone: Nomor telepon
+public.common.verification_types.labels.change: Ubah {{ deliveryType }}
+public.common.verification_types.labels.change.email: Ubah email
+public.common.verification_types.labels.change.sms: Ubah SMS
+public.common.verification_types.labels.change.whatsapp: Kirim ke WhatsApp
+public.common.verification_types.labels.send_to: Kirim ke {{ deliveryType }}
+public.common.verification_types.labels.send_to.email: ''
+'public.common.verification_types.labels.send_to.email ': Kirim ke email
+public.common.verification_types.labels.send_to.sms: Kirim ke SMS
+public.common.verification_types.labels.send_to.whatsapp: Kirim ke WhatsApp
+public.header.buttons.create_account: Buat akun
+public.header.buttons.login: Masuk
+referral_code.label: Punya kode referral?
+referral_code.warning: Masukkan di bawah ini
+registration.s15.title: ''
+registration.s7.title: ''
+renew_token.action.authenticate.failure: Gagal masuk!
+renew_token.action.authenticate.pending: Masuk
+renew_token.action.authenticate.processing: Masuk...
+renew_token.action.authenticate.success: Anda telah berhasil masuk!
+renew_token.action.redirect.pending: ''
+renew_token.action.redirect.processing: Mengarahkan ke Trader Room...
+renew_token.action.redirect.success: ''
+renew_token.header: ''
+renew_token.page_title: ''
+required: Bidang ini wajib diisi
+reset_password.buttons.continue: Lanjutkan
+reset_password.fields.code: Kode konfirmasi
+reset_password.fields.confirmation_password: Konfirmasi kata sandi baru
+reset_password.fields.password: Kata sandi baru
+reset_password.labels.resend_code: Kirim ulang kode
+reset_password.title: Atur ulang kata sandi
+resident-of-us: ''
+risk_disclosure.url.forex4you.bvi: ''
+risk_disclosure.url.forex4you.svg: ''
+server.class.cent: ''
+server.class.cent_ndd: ''
+server.class.classic: ''
+server.class.classic_ndd: ''
+server.class.demo: ''
+server.class.pro_stp: ''
+server.client.mt4.default: ''
+server.client.mt4.lower: ''
+server.client.mt5.default: ''
+server.client.mt5.lower: ''
+server.type.cent.default: Cent Fixed
+server.type.cent.lower: (cent fixed)
+server.type.cent_ndd.default: Cent Pro
+server.type.cent_ndd.lower: (cent pro)
+server.type.classic.default: Classic Fixed
+server.type.classic.lower: (classic fixed)
+server.type.classic_ndd.default: ''
+server.type.classic_ndd.lower: ''
+server.type.demo.default: Demo
+server.type.demo.lower: (demo)
+server.type.pro_stp.default: Classic Pro
+server.type.pro_stp.lower: (classic pro)
+server.type.pro_stp_no_commission.default: Classic Standard
+server.type.pro_stp_no_commission.lower: (classic standard)
+server.type.pro_stp_standard.default: Classic Standard
+server.type.pro_stp_standard.lower: (classic standard)
+share4you.charts.data_as_of: ''
+share4you.charts.labels.equity_stop_loss: ''
+share4you.charts.series.absolute_gain: Total Keuntungan
+share4you.charts.series.balance: ''
+share4you.charts.series.copied_volume: ''
+share4you.charts.series.daily_gain: Keuntungan Harian
+share4you.charts.series.deposits: ''
+share4you.charts.series.drawdown: drawdown
+share4you.charts.series.drawdown_history: drawdown
+share4you.charts.series.earned_commission: ''
+share4you.charts.series.equity: ''
+share4you.charts.series.follower_funds: ''
+share4you.charts.series.followers: ''
+share4you.charts.series.investments: ''
+share4you.charts.series.monthly_gain: Keuntungan Bulanan
+share4you.charts.series.page_views: ''
+share4you.charts.series.profit: ''
+share4you.charts.series.risk_history: ''
+share4you.charts.series.withdrawals: ''
+share4you.charts.type.absolute_gain: ''
+share4you.charts.type.copied_volume: ''
+share4you.charts.type.daily_gain: ''
+share4you.charts.type.drawdown_history: drawdown
+share4you.charts.type.earned_commission: ''
+share4you.charts.type.follower_balance: Saldo
+share4you.charts.type.follower_equity: ''
+share4you.charts.type.follower_funds: ''
+share4you.charts.type.follower_profit: ''
+share4you.charts.type.followers: Follower
+share4you.charts.type.leader_balance: Saldo
+share4you.charts.type.leader_equity: ''
+share4you.charts.type.leader_profit: ''
+share4you.charts.type.monthly_gain: ''
+share4you.charts.type.page_views: ''
+share4you.charts.type.risk_history: ''
+share4you.charts.value.copied_volume_suffix: ''
+share4you.copy_rule.button.copy: ''
+share4you.copy_rule.button.edit: Simpan Perubahan
+share4you.copy_rule.error.copy_rule_account_creation_failed: ''
+share4you.copy_rule.error.copy_rule_account_not_created_yet: ''
+share4you.copy_rule.error.copy_rule_submit_failed: ''
+share4you.copy_rule.error.investment_above_max: Investasi maksimal adalah {{max}}
+  {{mata uang}}
+share4you.copy_rule.error.investment_below_min: Investasi minimal adalah {{min}} {{mata
+  uang}}
+share4you.copy_rule.error.investment_empty: Investasi kosong
+share4you.copy_rule.error.max_total_volume_above_max: Nilai maksimal adalah {{max}}
+share4you.copy_rule.error.max_total_volume_below_min: Nilai minimal adalah {{min}}
+share4you.copy_rule.error.max_trade_volume_above_max: Nilai maksimal adalah {{max}}
+share4you.copy_rule.error.max_trade_volume_below_min: Nilai minimal adalah {{min}}
+share4you.copy_rule.error.min_trade_volume_above_max: Nilai maksimal adalah {{max}}
+share4you.copy_rule.error.min_trade_volume_negative: Nilai negatif tidak diizinkan
+share4you.copy_rule.error.scale_above_max: Pengganda maksimal adalah {{max}}
+share4you.copy_rule.error.scale_below_min: Pengganda minimal adalah {{min}}
+share4you.copy_rule.error.stop_loss_above_max: ''
+share4you.copy_rule.error.stop_loss_below_min: Nilai minimal adalah {{min}}
+share4you.copy_rule.input.auto_rescale.False: ''
+share4you.copy_rule.input.auto_rescale.True: ''
+share4you.copy_rule.input.auto_rescale.no: Tidak
+share4you.copy_rule.input.auto_rescale.yes: ''
+share4you.copy_rule.investment.hint: Setara dengan {{amount}} {{currency}}
+share4you.copy_rule.options.collapse: Kurangi Pilihan
+share4you.copy_rule.options.expand: Pilihan Lain
+share4you.copy_rule.otp_verification.confirm_btn: ''
+share4you.copy_rule.otp_verification.confirm_text: ''
+share4you.copy_rule.otp_verification.field_label: ''
+share4you.copy_rule.otp_verification.send_btn: ''
+share4you.copy_rule.otp_verification.send_text: ''
+share4you.copy_rule.otp_verification.title: ''
+share4you.copy_rule.saved_successfully: ''
+share4you.copy_rule.scale.hint_greater: Pengganda yang dimasukkan adalah dengan {{difference}}%
+  lebih tinggi, dari yang disarankan. Ini dapat menyebabkan pengambilan risiko yang
+  berlebihan.
+share4you.copy_rule.scale.hint_less: Pengganda yang dimasukkan adalah dengan {{difference}}%
+  lebih rendah, dari yang disarankan. Ini dapat mengakibatkan risiko dan profitabilitas
+  yang lebih rendah.
+share4you.copy_rule.scale.hint_same: Order akan disalin dengan volume yang sama dengan
+  Leader
+share4you.copy_rule.scale.standard: Standar ({{scale}})
+share4you.copy_rule.symbols.selected: Aturan penyalinan akan dibatasi hanya untuk
+  {{simbol}}
+share4you.follower_account.copy_rules.action_block.button.leave_feedback: Tinggalkan
+  komentar
+share4you.follower_account.copy_rules.action_block.button.pause: Pause
+share4you.follower_account.copy_rules.action_block.button.reject: Tolak
+share4you.follower_account.copy_rules.action_block.button.resume: Lanjutkan
+share4you.follower_account.copy_rules.action_block.tooltip.delete: Hapus Copy Rule
+  saat ini
+share4you.follower_account.copy_rules.action_block.tooltip.edit: Edit Copy Rule saat
+  ini
+share4you.follower_account.copy_rules.action_block.tooltip.pause: ''
+share4you.follower_account.copy_rules.action_block.tooltip.reject: Tolak Copy Rule
+  saat ini
+share4you.follower_account.copy_rules.action_block.tooltip.resume: Lanjutkan Copy
+  Rule saat ini
+share4you.follower_account.feedback.rating.1: Sangat buruk
+share4you.follower_account.feedback.rating.2: Buruk
+share4you.follower_account.feedback.rating.3: Normal
+share4you.follower_account.feedback.rating.4: Baik
+share4you.follower_account.feedback.rating.5: Sangat Baik
+share4you.leader_account.description.language.de: ''
+share4you.leader_account.description.language.en: Bahasa Inggris
+share4you.leader_account.description.language.es: ''
+share4you.leader_account.description.language.fr: ''
+share4you.leader_account.description.language.ms: ''
+share4you.leader_account.description.language.ru: Bahasa Rusia
+share4you.leader_account.description.language.th: Bahasa Thailand
+share4you.leader_account.description.language.zhs: ''
+share4you.leader_account.description.language.zht: ''
+share4you.leader_account.followers.follower_average_equity: ''
+share4you.leader_account.followers.joined_last_month: ''
+share4you.leader_account.followers.left_last_month: ''
+share4you.leader_account.followers.multiplier.above: ''
+share4you.leader_account.followers.multiplier.below: ''
+share4you.leader_account.followers.multiplier.normal: ''
+share4you.leader_account.trade_commissions.commission_model.-: ''
+share4you.leader_account.trade_commissions.commission_model.commission: ''
+share4you.leader_account.trade_commissions.commission_model.mixed: ''
+share4you.leader_account.trade_commissions.commission_model.profit: ''
+share4you.leader_profile.account_age.days: ''
+share4you.leader_profile.account_age.month: 1 bulan
+share4you.leader_profile.account_age.months: ''
+share4you.leader_profile.account_age.year: ''
+share4you.leader_profile.account_age.years: ''
+share4you.leader_profile.alert.unwatch_error: ''
+share4you.leader_profile.alert.unwatch_success: ''
+share4you.leader_profile.alert.watch_error: ''
+share4you.leader_profile.alert.watch_success: ''
+share4you.leader_profile.button.unwatch: Hapus dari Daftar Pantauan
+share4you.leader_profile.button.watch: Tambahkan ke Daftar Pantauan
+share4you.leader_profile.equity_stop_loss_description: ''
+share4you.leader_profile.equity_stop_loss_set_description: ''
+share4you.leader_profile.gain_period.in_days: ''
+share4you.leader_profile.gain_period.in_month: ''
+share4you.leader_profile.gain_period.in_months: ''
+share4you.leader_profile.gain_period.in_year: ''
+share4you.leader_profile.gain_period.in_years: ''
+share4you.leader_profile.header.created: Dibuat {{hari}} hari lalu
+share4you.leader_profile.header.followers: '{{hitung}} follower'
+share4you.leader_profile.header.last_activity: Aktivitas Terakhir {{last_activity}}
+share4you.leader_profile.header.rank: '#{{peringkat}} dari {{total}} dalam Penilaian'
+share4you.leader_profile.header.reviews: '{{hitung}} penilaian'
+share4you.leader_profile.notification.leader_is_archived: ''
+share4you.leader_profile.page_title: 'Leader: Profil Leader | Share4you'
+share4you.leader_profile.review_count: '{0} Belum ada ulasan|{1} 1 Ulasan|]1,Inf]
+  {{count}} Ulasan'
+share4you.leader_profile.review_likes: '{0} Belum disukai|{1} 1 Suka|]1,Inf] {{count}}
+  Suka'
+share4you.leader_profile.simulate.date_range.1m: 1 bulan
+share4you.leader_profile.simulate.date_range.2m: 2 bulan
+share4you.leader_profile.simulate.date_range.3m: 3 bulan
+share4you.leader_profile.simulate.date_range.6m: 6 bulan
+share4you.leader_profile.simulate.date_range.7d: 7 hari
+share4you.leader_profile.simulate.date_range_short.1m: 1bulan
+share4you.leader_profile.simulate.date_range_short.2m: 2bulan
+share4you.leader_profile.simulate.date_range_short.3m: 3bulan
+share4you.leader_profile.simulate.date_range_short.6m: 6bulan
+share4you.leader_profile.simulate.date_range_short.7d: 7hari
+share4you.leader_profile.simulate.min_deposit: <b>{{amount}} USD</b> adalah setoran
+  minimal yang diwajibkan untuk trader ini
+share4you.leader_profile.time_limit.1m: 1bulan
+share4you.leader_profile.time_limit.1y: 1tahun
+share4you.leader_profile.time_limit.3d: 3hari
+share4you.leader_profile.time_limit.3m: 3bulan
+share4you.leader_profile.time_limit.6m: 6bulan
+share4you.leader_profile.time_limit.7d: 7hari
+share4you.leader_profile.time_limit.all: Semuanya
+share4you.leader_profile.trade_size.count_label: '{{count}} trades'
+share4you.leader_profile.trade_size.loss_making.group.-100_to_-50: 50 - 100 pips
+share4you.leader_profile.trade_size.loss_making.group.-10_to_-5: 5 - 10 pips
+share4you.leader_profile.trade_size.loss_making.group.-20_to_-10: 10 - 20 pips
+share4you.leader_profile.trade_size.loss_making.group.-50_to_-20: 20 - 50 pips
+share4you.leader_profile.trade_size.loss_making.group.-5_to_0: < 5 pips
+share4you.leader_profile.trade_size.loss_making.group.-inf_to_-100: '> 100 pips'
+share4you.leader_profile.trade_size.profitable.group.0_to_5: < 5 pips
+share4you.leader_profile.trade_size.profitable.group.100_to_inf: '> 100 pips'
+share4you.leader_profile.trade_size.profitable.group.10_to_20: 10 - 20 pips
+share4you.leader_profile.trade_size.profitable.group.20_to_50: 20 - 50 pips
+share4you.leader_profile.trade_size.profitable.group.50_to_100: 50 - 100 pips
+share4you.leader_profile.trade_size.profitable.group.5_to_10: 5 - 10 pips
+share4you.leader_profile.traded_instruments.trade_count: ''
+share4you.leader_settings.advisor.avatar_upload_success: Avatar diperbaharui!
+share4you.leader_settings.commission.leader_share: 'Anda menerima: {{share}} USD'
+share4you.leader_settings.commission.modes.commission: Volume Tersalin
+share4you.leader_settings.commission.modes.profit: Keuntungan Pengikut
+share4you.leader_settings.commission.partner_share: 'Partner menerima: {{share}} USD'
+share4you.leader_settings.commission.percent_leader_share: 'Anda mendapatkan: {{share}}
+  %'
+share4you.leader_settings.commission.percent_partner_share: 'Mitra mendapatkan: {{share}}
+  %'
+share4you.leader_settings.commission.valid_from: ''
+share4you.leaders_rating.aggression.aggression_high: Tinggi
+share4you.leaders_rating.aggression.aggression_low: Rendah
+share4you.leaders_rating.aggression.aggression_medium: Menengah
+share4you.leaders_rating.average_trade_time.day_trader: Day trader (2jam-24jam)
+share4you.leaders_rating.average_trade_time.long_term_trader: ''
+share4you.leaders_rating.average_trade_time.scalper: Scalper (0jam-2jam)
+share4you.leaders_rating.average_trade_time.swing_trader: Swing trader (1hari-1minggu)
+share4you.leaders_rating.commission_type.commission: Komisi berdasarkan volume
+share4you.leaders_rating.commission_type.profit: Komisi berdasarkan performa
+share4you.leaders_rating.dashboard.button.contest_conditions: ''
+share4you.leaders_rating.dashboard.button.see_all: Lihat semua {{hitung}} Leader
+share4you.leaders_rating.dashboard.group.equity: Leader dengan Ekuitas diatas 1000
+  USD
+share4you.leaders_rating.dashboard.group.experience: Leader Berpengalaman
+share4you.leaders_rating.dashboard.group.local: Leader Lokal
+share4you.leaders_rating.dashboard.group.low_medium_risk: ''
+share4you.leaders_rating.dashboard.group.low_risk: Leader Resiko Rendah
+share4you.leaders_rating.dashboard.group.reviews: Leader dengan Penilaian
+share4you.leaders_rating.dashboard.group.top_performing: ''
+share4you.leaders_rating.dashboard.group.trending: Leader sedang Trending
+share4you.leaders_rating.dashboard.group.watched: ''
+share4you.leaders_rating.dashboard.tag.contest_candidate.1.title: ''
+share4you.leaders_rating.dashboard.tag.contest_candidate.1.tooltip: ''
+share4you.leaders_rating.dashboard.tag.contest_candidate.2.title: ''
+share4you.leaders_rating.dashboard.tag.contest_candidate.2.tooltip: ''
+share4you.leaders_rating.dashboard.tag.contest_candidate.3.title: ''
+share4you.leaders_rating.dashboard.tag.contest_candidate.3.tooltip: ''
+share4you.leaders_rating.days_abbr: d
+share4you.leaders_rating.filter.average_trade_times.label: Rata-rata Waktu Perdagangan
+share4you.leaders_rating.filter.average_trade_times.placeholder: Pilih rata-rata Waktu
+  Perdagangan
+share4you.leaders_rating.filter.country.label: Leader Negara
+share4you.leaders_rating.filter.country.placeholder: Pilih Leader Negara
+share4you.leaders_rating.filter.currencies.label: Mata Uang Akun
+share4you.leaders_rating.filter.currencies.placeholder: Pilih Mata Uang Negara
+share4you.leaders_rating.filter.investment.label: Ingin Berinvestasi
+share4you.leaders_rating.filter.investment.placeholder: Nilai Investasi
+share4you.leaders_rating.filter.leader_set.all: Semua
+share4you.leaders_rating.filter.leader_set.rated: Ternilai
+share4you.leaders_rating.filter.leader_set.watched: Terlihat
+share4you.leaders_rating.filter.min_months_since_last_stop_out.label: ''
+share4you.leaders_rating.filter.min_months_since_last_stop_out.tooltip: ''
+share4you.leaders_rating.filter.photo: Hanya untuk Leader dengan Foto
+share4you.leaders_rating.filter.reviews: Hanya untuk Leader dengan penilaian
+share4you.leaders_rating.filter.risks.label: 'Tingkat Risiko: {{value}}'
+share4you.leaders_rating.filter.risks.placeholder: Pilih Tingkat Risiko
+share4you.leaders_rating.filter.service_type.label: Tipe Akun
+share4you.leaders_rating.filter.service_type.placeholder: Pilih Tipe Akun
+share4you.leaders_rating.filter.tag.accountType: Tipe Akun
+share4you.leaders_rating.filter.tag.age_in_days: Usia Akun ({{value}})
+share4you.leaders_rating.filter.tag.aggression: Agresivitas Perdagangan ({{value}})
+share4you.leaders_rating.filter.tag.average_rating: Skor Rata-rata ({{value}})
+share4you.leaders_rating.filter.tag.average_trade_time: Rata-rata Waktu Perdagangan
+  ({{value}})
+share4you.leaders_rating.filter.tag.average_trade_times: 'Rata-rata Waktu Perdagangan:
+  {{value}}'
+share4you.leaders_rating.filter.tag.average_weekly_gain: Rata-rata Hasil Mingguan
+  ({{value}})
+share4you.leaders_rating.filter.tag.best_trade_30d: Perdagangan Terbaik ({{value}})
+share4you.leaders_rating.filter.tag.commission_type: Tipe komisi
+share4you.leaders_rating.filter.tag.copy_commission: Salin komisi per lot ({{value}})
+share4you.leaders_rating.filter.tag.country: 'Negara: {{value}}'
+share4you.leaders_rating.filter.tag.currencies: 'Mata Uang: {{value}}'
+share4you.leaders_rating.filter.tag.daily_loss_expectation: Ekspektasi Kerugian Harian
+  ({{value}})
+share4you.leaders_rating.filter.tag.equity: Equity ({{value}})
+share4you.leaders_rating.filter.tag.follower_funds: Dana follower ({{value}})
+share4you.leaders_rating.filter.tag.followers: follower Aktif ({{value}})
+share4you.leaders_rating.filter.tag.followers_profit: Keuntungan follower ({{value}})
+share4you.leaders_rating.filter.tag.gain: Keuntungan ({{value}})
+share4you.leaders_rating.filter.tag.gain_30_days: Keuntungan (30 Hari) {{value}}
+share4you.leaders_rating.filter.tag.gain_chart: Gain Chart ({{value}})
+share4you.leaders_rating.filter.tag.investment: Investasi ({{value}})
+share4you.leaders_rating.filter.tag.max_drawdown: Maks. drawdown ({{value}})
+share4you.leaders_rating.filter.tag.min_deposit: Min. deposit ({{value}})
+share4you.leaders_rating.filter.tag.min_months_since_last_stop_out: ''
+share4you.leaders_rating.filter.tag.partner_reward: Hadiah partner ({{value}})
+share4you.leaders_rating.filter.tag.perf_score: 'Hasil/MDD (30 Hari): {{value}}'
+share4you.leaders_rating.filter.tag.photo: '{{value}}'
+share4you.leaders_rating.filter.tag.profitabilityCurrent: Profitabilitas Saat ini
+share4you.leaders_rating.filter.tag.profitabilityFixed: Profitabilitas Tetap
+share4you.leaders_rating.filter.tag.profitability_current: Profitabilitas Saat Ini
+  ({{value}})
+share4you.leaders_rating.filter.tag.profitability_fixed: Keuntungan Tetap ({{value}})
+share4you.leaders_rating.filter.tag.profitable_trades_30_days: Keuntungan Perdagangan
+  ({{value}})
+share4you.leaders_rating.filter.tag.range.gt: '> {{value}}'
+share4you.leaders_rating.filter.tag.range.in: '{{min}} - {{max}}'
+share4you.leaders_rating.filter.tag.range.lt: < {{value}}
+share4you.leaders_rating.filter.tag.rank: Peringkat ({{value}})
+share4you.leaders_rating.filter.tag.reviews: '{{value}}'
+share4you.leaders_rating.filter.tag.risks: 'Tingkat Risiko: {{value}}'
+share4you.leaders_rating.filter.tag.service_type: 'Tipe Akun: {{value}}'
+share4you.leaders_rating.filter.tag.trader: Trader ({{value}})
+share4you.leaders_rating.filter.tag.trading_days_30d: 'Hari Perdagangan (30 Hari):
+  {{value}}'
+share4you.leaders_rating.filter.tag.trading_method: Metode Perdagangan ({{value}})
+share4you.leaders_rating.filter.tag.trading_methods: 'Metode perdagangan: {{value}}'
+share4you.leaders_rating.filter.tag.volatility: Volatilitas ({{value}})
+share4you.leaders_rating.filter.tag.volatility_30d: Volatilitas (30 Hari) ({{value}})
+share4you.leaders_rating.filter.tag.watchers: Pengamat ({{value}})
+share4you.leaders_rating.filter.tag.worst_trade_30d: Perdagangan Terburuk ({{value}})
+share4you.leaders_rating.filter.trading_methods.label: Metode Perdagangan
+share4you.leaders_rating.filter.trading_methods.placeholder: Pilih Metode Perdagangan
+share4you.leaders_rating.promo_block.header: Promosikan Pemimpin
+share4you.leaders_rating.risk_level.high: Tinggi
+share4you.leaders_rating.risk_level.low: Rendah
+share4you.leaders_rating.risk_level.med: Menengah
+share4you.leaders_rating.risk_level.na: ''
+share4you.leaders_rating.risk_level.v_high: Sangat Tinggi
+share4you.leaders_rating.service_type.cent: Cent Fixed
+share4you.leaders_rating.service_type.cent_ndd: Cent Pro
+share4you.leaders_rating.service_type.classic: Classic Fixed
+share4you.leaders_rating.service_type.classic_ndd: Classic Pro
+share4you.leaders_rating.shared_watchlist.invalid_watchlist_error: Daftar pantauan
+  ini tidak ada atau bersifat pribadi
+share4you.leaders_rating.table.header.age_in_days: Usia Akun
+share4you.leaders_rating.table.header.aggression: Agresivitas Perdagangan
+share4you.leaders_rating.table.header.average_rating: Skor Rata-rata
+share4you.leaders_rating.table.header.average_trade_time: Rata-rata Waktu Perdagangan
+share4you.leaders_rating.table.header.average_trade_times: Rata-rata Waktu Perdagangan
+share4you.leaders_rating.table.header.average_weekly_gain: Rata-rata Keuntungan Mingguan
+share4you.leaders_rating.table.header.best_trade_30d: Perdagangan Terbaik
+share4you.leaders_rating.table.header.commission: Komisi
+share4you.leaders_rating.table.header.copy_commission: Salin komisi
+share4you.leaders_rating.table.header.country: Negara
+share4you.leaders_rating.table.header.currencies: Mata Uang
+share4you.leaders_rating.table.header.daily_loss_expectation: Ekspektasi Kegurian
+  Harian
+share4you.leaders_rating.table.header.equity: ''
+share4you.leaders_rating.table.header.equity_stop_loss: Ekuitas
+share4you.leaders_rating.table.header.follower_funds: Dana follower
+share4you.leaders_rating.table.header.followers: Follower Aktif
+share4you.leaders_rating.table.header.followers_profit: Keuntungan follower
+share4you.leaders_rating.table.header.gain: Keuntungan
+share4you.leaders_rating.table.header.gain_1y: ''
+share4you.leaders_rating.table.header.gain_30_days: Keuntungan (30 Hari)
+share4you.leaders_rating.table.header.gain_chart: Grafik Peningkatan
+share4you.leaders_rating.table.header.investment: Investasi
+share4you.leaders_rating.table.header.latest_daily_gain: ''
+share4you.leaders_rating.table.header.max_drawdown: Maks. Drawdown
+share4you.leaders_rating.table.header.max_drawdown_1y: ''
+share4you.leaders_rating.table.header.min_deposit: Min. deposit
+share4you.leaders_rating.table.header.partner_reward: Reward Partner
+share4you.leaders_rating.table.header.perf_score: Hasil/MDD (30D)
+share4you.leaders_rating.table.header.perf_score2: ''
+share4you.leaders_rating.table.header.photo: Foto
+share4you.leaders_rating.table.header.profitability_current: Profitabilitas Saat ini
+share4you.leaders_rating.table.header.profitability_fixed: Profitabilitas Tetap
+share4you.leaders_rating.table.header.profitable_trades_30_days: Perdagangan Menguntungkan
+share4you.leaders_rating.table.header.rank: Peringkat
+share4you.leaders_rating.table.header.reviews: ''
+share4you.leaders_rating.table.header.risks: Tingkat Risiko
+share4you.leaders_rating.table.header.service_type: Tipe Akun
+share4you.leaders_rating.table.header.trader: Trader
+share4you.leaders_rating.table.header.trading_days_30d: Hari Perdagangan (30 Hari)
+share4you.leaders_rating.table.header.trading_method: Metode Trading
+share4you.leaders_rating.table.header.trading_methods: Metode Perdagangan
+share4you.leaders_rating.table.header.volatility: Volatilitas
+share4you.leaders_rating.table.header.volatility_1y: Volatilitas (1 tahun)
+share4you.leaders_rating.table.header.volatility_30d: Volatilitas (30 Hari)
+share4you.leaders_rating.table.header.watchers: Pengamat
+share4you.leaders_rating.table.header.worst_trade_30d: Perdagangan Terburuk
+share4you.leaders_rating.table.misc.copy_commission_amount: ''
+share4you.leaders_rating.table.misc.mixed_separator: dan
+share4you.leaders_rating.table.tooltip.average_trade_time: ''
+share4you.leaders_rating.table.tooltip.followers_profit: ''
+share4you.leaders_rating.table.tooltip.gain: ''
+share4you.leaders_rating.table.tooltip.max_drawdown: ''
+share4you.leaders_rating.table.tooltip.min_deposit: ''
+share4you.leaders_rating.table.tooltip.mixed: Charge komisi per lot dan persentase
+  dari keuntungan followers yang diberikan kepada leader sebagai apresiasi atas performa
+  positif.
+share4you.leaders_rating.table.tooltip.perf_score: ''
+share4you.leaders_rating.table.tooltip.perf_score2: ''
+share4you.leaders_rating.table.tooltip.profit_fee: ''
+share4you.leaders_rating.table.tooltip.risks: ''
+share4you.leaders_rating.table.tooltip.trading_method: Data berdasarkan riwayat akun
+  Leader dalam 30 hari terakhir
+share4you.leaders_rating.table.tooltip.volatility: ''
+share4you.leaders_rating.title: Leader tersaring
+share4you.leaders_rating.trading_methods.expert_advisor: EA / Robot Trading
+share4you.leaders_rating.trading_methods.manual: Manual
+share4you.leaders_rating.trading_methods.mixed: Bercampur
+share4you.pending_followers.action_block.button.accept: Menerima
+share4you.pending_followers.action_block.button.decline: Menolak
+share4you.service_types.cent: Cent Fixed
+share4you.service_types.cent-ndd: Cent Pro
+share4you.service_types.classic: Classic Fixed
+share4you.service_types.classic-ndd: Classic Pro
+share4you.service_types.pro-stp-spread-markup: ''
+share4you.service_types.pro-stp-standard: ''
+share4you.service_types.pro-stp-standard-high-markup: ''
+share4you.service_types.prostp: Classic Pro
+sso.msg.already_exist: Pengguna dengan email ini telah terdaftar. Mohon gunakan formulir
+  <a href="{{login_url}}">login</a>.
+sso.msg.country_is_forbidden: Layanan ini tidak tersedia untuk penduduk {{country}}
+sso.msg.linking_info_message: Email Anda telah terdaftar. Masukkan kata sandi untuk
+  menghubungkan Akun Anda dengan {{sso_provider}}.
+sso.msg.missing_required_data: Email Anda tidak dapat ditemukan. Silakan lanjutkan
+  registrasi dengan mengisi formulir standar.
+sso.msg.not_found: ''
+sso.msg.wait_registration: Mohon tunggu sementara kami menyelesaikan proses registrasi.
+support_phone.bvi: 0078033212324
+support_phone.by: 0078033212324
+support_phone.mu: 0078033212324
+support_phone.svg: 0078033212324
+system_notification.maintenance: Perdagangan kripto tidak tersedia karena pemeliharaan.
+  Kami akan kembali dalam {{hours}} jam dan {{minutes}} menit. Perdagangan yang terbuka
+  tetap aktif.
+terms_and_conditions.bvi: Dengan mengklik tombol "Konfirmasi & lanjutkan" Anda setuju
+  dengan {{__brand}} <a href="https://{{__public_domain}}/id/legal-documents/" target="_blank">Syarat
+  & Ketentuan</a>.
+terms_and_conditions.by: By clicking "Confirm & continue" button you agree to the
+  {{__brand}} <a href ="https://{{__public_domain}}/legal-documents/" target="_blank">Terms
+  & Conditions</a> and confirm that you are at least 18 years old.
+terms_and_conditions.mu: By clicking "Confirm & continue" button you agree to the
+  {{__brand}} <a href ="https://{{__public_domain}}/legal-documents/" target="_blank">Terms
+  & Conditions</a> and confirm that you are at least 18 years old.
+terms_and_conditions.svg: Dengan mengklik tombol "Konfirmasi & lanjutkan" Anda setuju
+  dengan {{__brand}} <a href="https://{{__public_domain}}/id/legal-documents/" target="_blank">Syarat
+  & Ketentuan</a>.
+tour.step.leader_overview: Di sini Anda dapat menemukan informasi terperinci tentang
+  perdagangan Leader.
+tour.step.leader_simulate: Ini adalah kalkulator investasi. Alat ini membantu Anda
+  untuk mengakses kemungkinan keuntungan investasi. Kalkulator ini didasarkan pada
+  statistik kinerja masa lalu dan tidak menjamin hasil di masa depan.
+tour.step.leader_simulate_copy: Klik di sini untuk mulai menyalin perdagangan Leader.
+tour.step.leader_simulate_investment: Masukkan jumlah investasi yang direncanakan
+  di sini.
+tour.step.leaders_additional_filters: Anda dapat memfilter Leader berdasarkan preferensi
+  Anda, seperti kinerja, risiko, dan faktor lainnya. Klik di sini untuk menambahkan
+  filter tambahan.
+tour.step.leaders_cards: Ini adalah kartu Leader. Di sini Anda dapat menemukan Leader
+  untuk mulai menyalin perdagangan.
+tour.step.leaders_filters: Di sini Anda dapat melihat filter yang dipilih. Hapus filter
+  dengan mengklik "silang".
+tour.step.leaders_menu: Di sini Anda dapat menemukan Leader Share4you. Klik di sini
+  untuk melihatnya.
+tour.step.leaders_name: Klik di sini untuk mempelajari lebih lanjut tentang Leader.
+tour.step.s4u_deposit: Di sini Anda dapat mengelola dana akun. Tambahkan dana untuk
+  mengaktifkan proses penyalinan.
+tour.step.s4u_welcome: Selamat datang di Share4you! Pengenalan cepat ini akan memandu
+  Anda melalui komponen layanan utama. Diperlukan waktu kurang dari tiga menit untuk
+  menyelesaikan semua langkah ini.
+trade_server.class.cent: ''
+trade_server.class.cent_ndd: Cent Pro
+trade_server.class.classic: ''
+trade_server.class.classic_ndd: ''
+trade_server.class.demo: ''
+trade_server.class.pamm: ''
+trade_server.class.pammcent: ''
+trade_server.class.pro_stp: ''
+trading.order.history.filter.order_status.statuses.all: ''
+trading.order.history.filter.order_status.statuses.closed: ''
+trading.order.history.filter.order_status.statuses.open: ''
+trading.order.history.filter.order_status.statuses.pending: ''
+trading.order.history.filter.order_type.types.ALL: ''
+trading.order.history.filter.order_type.types.BALANCE: ''
+trading.order.history.filter.order_type.types.BUY: ''
+trading.order.history.filter.order_type.types.BUY_LIMIT: ''
+trading.order.history.filter.order_type.types.BUY_STOP: ''
+trading.order.history.filter.order_type.types.CREDIT: ''
+trading.order.history.filter.order_type.types.SELL: ''
+trading.order.history.filter.order_type.types.SELL_LIMIT: ''
+trading.order.history.filter.order_type.types.SELL_STOP: ''
+trading.order.history.filter.symbol.symbols.default: ''
+user_linking.buttons.continue: Lanjutkan
+user_linking.fields.password: Kata Sandi
+user_linking.title: Penghubungan pengguna
+user_login.buttons.login_in: Masuk
+user_login.fields.password: Kata Sandi
+user_login.labels.forgot_password: Lupa kata sandi?
+user_login.title.forex4you: Selamat datang di Forex4you
+user_login.title.markets4you: Selamat datang di Markets4you
+user_registration.buttons.confirm_and_continue: Konfirmasi dan lanjutkan
+user_registration.complete.action.convert_to_leader.failure: Gagal memasang pengaturan
+  leader!
+user_registration.complete.action.convert_to_leader.pending: Pasang pengaturan leader
+user_registration.complete.action.convert_to_leader.processing: ''
+user_registration.complete.action.convert_to_leader.success: Pengaturan leader telah
+  dipasang!
+user_registration.complete.action.create_account.failure: Proses registrasi Akun telah
+  gagal!
+user_registration.complete.action.create_account.pending: ''
+user_registration.complete.action.create_account.processing: Membuat akun...
+user_registration.complete.action.create_account.success: 'Sukses! '
+user_registration.complete.action.create_user.failure: Proses registrasi User telah
+  gagal!
+user_registration.complete.action.create_user.pending: ''
+user_registration.complete.action.create_user.processing: Membuat User...
+user_registration.complete.action.create_user.success: Pengguna telah berhasil dibuat!
+user_registration.complete.action.deposit_account.failure: Gagal memeriksa syarat
+  akun!
+user_registration.complete.action.deposit_account.pending: Periksa syarat akun
+user_registration.complete.action.deposit_account.processing: Memeriksa syarat akun...
+user_registration.complete.action.deposit_account.success: Syarat akun telah diperiksa!
+user_registration.complete.action.login.failure: Gagal masuk!
+user_registration.complete.action.login.pending: Masuk
+user_registration.complete.action.login.processing: Masuk...
+user_registration.complete.action.login.success: Anda telah berhasil masuk!
+user_registration.complete.action.redirect.pending: Redirect ke Trader Room
+user_registration.complete.action.redirect.processing: Mengarahkan ke Trader Room...
+user_registration.complete.action.redirect.success: ''
+user_registration.fields.affid: Masukkan di bawah ini
+user_registration.fields.country: Negara tempat tinggal
+user_registration.fields.email: ''
+'user_registration.fields.email ': Email
+user_registration.fields.password: Kata Sandi
+user_registration.fields.resident_of_us: ''
+user_registration.hint: Dengan mengklik tombol "Konfirmasi dan lanjutkan", Anda setuju
+  dengan Syarat & Ketentuan Markets4you.
+user_registration.hints.have_an_account: Punya akun?
+user_registration.labels.log_in: Masuk
+user_registration.labels.referral_code: Punya kode referral?
+user_registration.personal_details.affid.error.jurisdiction_mismatch: ''
+user_registration.personal_details.country.error.jurisdiction_mismatch: ''
+user_registration.personal_details.jurisdiction: Anda akan terdaftar di bawah yurisdiksi
+  <b>{{jurisdiction}}</b>
+user_registration.personal_details.jurisdiction.bvi: Mohon diperhatikan bahwa Anda
+  mendaftar pada E-Global Trade & Finance Group, Inc. yang disahkan dan diatur oleh
+  BVI FSC
+user_registration.personal_details.jurisdiction.by: Anda akan terdaftar di bawah yurisdiksi
+  <b>{{jurisdiction}}</b>
+user_registration.personal_details.jurisdiction.mu: Anda akan terdaftar di bawah yurisdiksi
+  <b>{{jurisdiction}}</b>
+user_registration.personal_details.jurisdiction.svg: Mohon diperhatikan bahwa Anda
+  mendaftar pada E-Global Trade & Finance SVG LLC di yurisdiksi Saint Vincent and
+  the Grenadines
+user_registration.personal_details.phone.error.jurisdiction_mismatch: ''
+user_registration.resend_code.hint.email: ''
+user_registration.resend_code.hint.phone: Gunakan nomor HP yang sama atau masukkan
+  nomor HP yang lain
+user_registration.title.forex4you: Daftar ke Forex4you
+user_registration.title.markets4you: Daftar ke Markets4you
+user_registration.verification_code.busy.call: ''
+user_registration.verification_code.busy.email: Untuk memastikan ini memang Anda,
+  {{__brand}} akan mengirim email berisi kode verifikasi ke {{email}}.
+user_registration.verification_code.busy.sms: '{{__brand}} akan mengirim SMS berisi
+  kode verifikasi ke {{phone_number}}'
+user_registration.verification_code.change.call: ''
+user_registration.verification_code.change.email: Gantikan alamat e-mail Anda dan
+  kirimkan kode lagi
+user_registration.verification_code.change.sms: Gantikan nomor telepon dan kirim SMS
+  lagi
+user_registration.verification_code.resend.call: ''
+user_registration.verification_code.resend.email: Kirim kode memalui email {{email}}
+user_registration.verification_code.resend.sms: Kirim kode melalui SMS
+user_registration.verification_code.success.call: ''
+user_registration.verification_code.success.email: 'Kami telah mengirim email berisi
+  kode verifikasi ke alamat e-mail {{email}}! Kode ini hanya berlaku untuk 10 menit. '
+user_registration.verification_code.success.sms: 'Kami telah mengirim SMS berisi kode
+  verifikasi ke nomor {{phone_number}}! Kode ini hanya berlaku untuk 10 menit. '
+user_sso.title: Penghubungan pengguna
+verification.buttons.back: Kembali
+verification.buttons.change: Ubah
+verification.buttons.verify: Verifikasi
+verification.descriptions.email: Silakan masukkan kode verifikasi yang kami kirimkan
+  ke email Anda ({{ recipient }}). Kode verifikasi berlaku selama 10 menit!
+verification.descriptions.phone: Silakan masukkan kode verifikasi yang kami kirimkan
+  ke nomor telepon ({{ recipient }}). Kode verifikasi berlaku selama 10 menit!
+verification.documents.address.alert.verified: ''
+verification.documents.identity.alert.verified: ''
+verification.fields.code: Kode konfirmasi
+verification.fields.email: Email
+verification.fields.phone: Nomor telepon
+verification.labels.resend_code: Kirim ulang kode
+verification.page_title: ''
+verification.subtitle.email: Silakan masukkan alamat email di mana Anda ingin menerima
+  kode verifikasi Anda.
+verification.subtitle.phone: Silakan masukkan nomor telepon tempat Anda ingin menerima
+  kode verifikasi Anda.
+verification.titles.email_change: Ubah email Anda
+verification.titles.email_verification: Verifikasi email
+verification.titles.phone_number_change: Masukkan nomor telepon Anda
+verification.titles.phone_number_verification: Verifikasi nomor telepon
+verification_call_confirmation: ''
+verification_code_confirmation: ''
+verification_code_email_confirmation: ''
+verification_form.action.resend: Kirim ulang kode verifikasi
+verification_form.action.to_login: Kembali ke halaman login
+verification_form.button.resend: Kirim ulang kode verifikasi
+verification_form.button.verify: Konfirmasikan dan Lanjutkan
+verification_form.code.busy.email: Mengirimkan kode verifikasi ke email Anda {{email}}...
+verification_form.code.busy.sms: Mengirimkan SMS berisi kode verifikasi ke nomor telepon
+  {{phone_number}}...
+verification_form.code.hint.email: Masuk dengan nomor telepon Anda
+verification_form.code.hint.label: Tidak menerima kode?
+verification_form.code.hint.sms: Masuk dengan email Anda
+verification_form.code.resend.email: Kirim kode via email
+verification_form.code.resend.sms: Kirim kode via SMS
+verification_form.code.success.email: Kami telah mengirimkan kode verifikasi ke email
+  Anda {{email}}!
+verification_form.code.success.sms: Kami telah mengirimkan SMS berisi kode verifikasi
+  ke nomor telepon {{phone_number}}!
+verification_form.redirect.to_login: ''
+verification_form.redirect.to_verification: ''
+verification_form.title: Verifikasi
+vip.popup.body.description1: 'Anda telah mencapai status VIP di Markets4you, dan berikut
+  keuntungannya:'
+vip.popup.body.description2: Perjalanan VIP Anda baru saja dimulai. Terus trading
+  dan nikmati peluang baru!
+vip.popup.body.list.items: '<li class="vip__list__item"><b>Fast Funds Transfer:</b>
+  We will process your deposit and withdrawals with unrivaled speed.</li>
+
+  <li class="vip__list__item"><b>Quick Verification:</b> We will prioritize your account
+  verifications, placing you ahead in all queues.</li>
+
+  <li class="vip__list__item"><b>Prompt Support: Our</b> VIP customer service team
+  will swiftly respond to all your queries.</li>'
+vip.popup.body.list.items.vn_en: ''
+vip.popup.body.list.title: Keuntungan untuk Anda
+vip.popup.heading.subtitle: Anda adalah klien VIP!
+vip.popup.heading.title: Selamat!

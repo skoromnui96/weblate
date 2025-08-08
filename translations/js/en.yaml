@@ -1,0 +1,1149 @@
+2fa.forms.code.buttons.verify: Verify
+2fa.forms.code.errors.max_attempt_reached: The maximum number of attempts allowed
+  has been reached. Try again in {{minutes}} minutes.
+2fa.forms.code.fields.code: Code
+2fa.forms.code.fields.save_trusted_device: Remember this browser for 30 days.
+2fa.hints.support: Unable to receive the code? Please contact our support via live-chat
+  or call.
+2fa.setup.action_approval_code_sent.email: Action confirmation code was sent to {{recipient}}
+2fa.setup.action_approval_code_sent.sms: Action confirmation code was sent to {{recipient}}
+2fa.setup.instruction: 'Download one of the Authenticator apps to receive the code.
+  App can be downloaded from the App Store or Google Play. Suggested apps: Google
+  Authenticator, Authy, Microsoft Authenticator.'
+2fa.setup.successfully_enabled: 2FA method is successfully enabled.
+2fa.title: Authentication required
+Validation Failed: Form contains errors. Please check the data entered.
+account_action.activateS4uLeader: Activate account
+account_action.archive: Archive
+account_action.changeLeverage: Change leverage
+account_action.changeMtPassword: Change password
+account_action.convertToLeader: Convert to leader
+account_action.deactivateS4uLeader: Deactivate account
+account_action.deposit: Deposit
+account_action.details: Details
+account_action.disableFollowerAutoProcessing: Process new followers manually
+account_action.enableFollowerAutoProcessing: Process new followers automatically
+account_action.overview: Overview
+account_action.partnerAds: Ads, banners, widgets
+account_action.partnerClients: Associated clients
+account_action.partnerExternalTransfer: Transfer funds to your client accounts
+account_action.partnerIncome: Partner income
+account_action.partnerNetwork: Partner network
+account_action.partnerStatistics: Statistics
+account_action.partnerTransfer: Transfer funds
+account_action.pauseS4uLeader: Pause
+account_action.resumeS4uLeader: Resume
+account_action.s4uFollowerSettings: Follower settings
+account_action.setS4uLeaderPrivate: Make account private
+account_action.setS4uLeaderPublic: Make account public
+account_action.tradeHistory: Trade history
+account_action.transfer: Transfer
+account_action.unarchive: Unarchive
+account_action.virtualDeposit: Add virtual funds
+account_action.withdraw: Withdraw
+account_registration.success.title: You can start trading with your newly created
+  <b>{{type}} account</b>. Please find your trading account login details below.
+accounts.collapse: Show less
+accounts.expand: Show all {{number}} accounts
+accounts.manage: Manage accounts
+accounts.overview.markup.091.description: Please note! Affiliated partner has set
+  markup of base currency for 1 lot. Your total trading commission is 20 USD of base
+  currency per lot.
+accounts.overview.markup.091.title: Markup 20
+accounts.overview.markup.126.description: Please note! Affiliated partner has set
+  markup of base currency for 1 lot. Your total trading commission is 20 USD of base
+  currency per lot.
+accounts.overview.markup.126.title: Markup 20
+accounts.overview.markup.markup15.description: This is a description of Markup 15
+accounts.overview.markup.markup15.title: Markup 15
+accounts.overview.markup.markup15mtp.description: This is a description of Markup
+  15 with MTP
+accounts.overview.markup.markup15mtp.title: Markup 15 with MTP
+accounts.overview.markup.markup17.description: This is a description of Markup 17
+accounts.overview.markup.markup17.title: Markup 17
+accounts.overview.markup.markup2.description: This is a description of Markup 2
+accounts.overview.markup.markup2.title: Markup 2
+accounts.overview.markup.markup30.description: This is a description of Markup 30
+accounts.overview.markup.markup30.title: Markup 30
+accounts.overview.markup.markup40.description: This is a description of Markup 40
+accounts.overview.markup.markup40.title: Markup 40
+accounts.overview.markup.markup50.description: This is a description of Markup 50
+accounts.overview.markup.markup50.title: Markup 50
+accounts.overview.markup.markup7.description: 'This is a description of Markup 7,
+  This is a description of Markup 7, This is a description of Markup 7
+
+  This is a description of Markup 7, This is a description of Markup 7, This is a
+  description of Markup 7
+
+  '
+accounts.overview.markup.markup7.title: Markup 7
+accounts.overview.markup.markup7mtp.description: This is a description of Markup 7
+  with MTP
+accounts.overview.markup.markup7mtp.title: Markup 7 with MTP
+accounts.overview.partner_affid.description: Additional spread markup is applied to
+  this account. More information on spreads for the various trading instruments is
+  available via your Forex4you trading terminal.
+accounts.overview.partner_affid.title: Affiliate markup
+accounts.section.alert.action_error: Something went wrong while performing an action,
+  try again or contact support
+accounts.section.archived.title: My archived accounts
+accounts.section.partner.title: My partner accounts
+accounts.section.share_follower.create_callout: You can create a Share4You account
+  by clicking the button below!
+accounts.section.share_follower.title: Share4you Follower accounts
+accounts.section.share_leader.create_callout: Become a Share4you Leader! Multiply
+  your income by sharing trades.
+accounts.section.share_leader.title: Share4you Leader accounts
+accounts.section.trader.create_callout: You can create a Trader account by clicking
+  the button below!
+accounts.section.trader.title: My trader accounts
+accounts.switcher.group.demo: Demo accounts
+accounts.switcher.group.partner: Partner accounts
+accounts.switcher.group.share_follower: Share4you/Follower accounts
+accounts.switcher.group.share_leader: Share4you/Leader accounts
+accounts.switcher.group.trader: Trader accounts
+affid.warning: Please check the partner code carefully as futher editing of that will
+  not be available
+check_markup: Check special conditions
+client_profile.grid.label.cent_mt4: Cent Fixed
+client_profile.grid.label.cent_ndd_mt4: Cent Pro
+client_profile.grid.label.classic_mt4: Classic Fixed
+client_profile.grid.label.classic_ndd_mt4: Classic Pro
+client_profile.grid.label.pro_stp_mt4: Classic Pro
+client_profile.grid.label.pro_stp_mt5: Classic Pro MT5
+client_profile.grid.label.pro_stp_standard_mt4: Classic Standard
+countries.my: Malaysia
+countries.th: Thailand
+countries.vn: Vietnam
+countries_restriction: Please note that this service is not available for residents
+  from selected country.
+date_range.1m: 1 month
+date_range.1y: 1 year
+date_range.2y: 2 years
+date_range.3d: 3 days
+date_range.3m: 3 months
+date_range.5y: 5 years
+date_range.6m: 6 months
+date_range.7d: 7 days
+date_range.all: All
+date_range.custom: Custom
+date_range.today: Today
+email.already_exist: A user with this email already exists
+email_too_long: Email should contain at most 47 characters
+field_is_required: This field is required
+footer.client_agreement.title: Legal information
+footer.client_agreement.url.forex4you.bvi: https://www.forex4you.com/ru/legal-documents/
+footer.client_agreement.url.forex4you.by: https://www.forex4you.by/legal-documents/
+footer.client_agreement.url.forex4you.mu: https://www.forex4you.mu/legal-documents/
+footer.client_agreement.url.forex4you.svg: https://www.forex4you.com/en/legal-documents/
+footer.client_agreement.url.markets4you.bvi: https://www.forex4you.com/ru/legal-documents/
+footer.client_agreement.url.markets4you.by: https://www.forex4you.by/legal-documents/
+footer.client_agreement.url.markets4you.mu: https://www.forex4you.mu/legal-documents/
+footer.client_agreement.url.markets4you.svg: https://www.forex4you.com/en/legal-documents/
+footer.complaints.title: Complaints
+footer.complaints.url.forex4you.bvi: https://www.forex4you.com/ru/complaints/
+footer.complaints.url.forex4you.by: https://www.forex4you.by/complaints/
+footer.complaints.url.forex4you.mu: https://www.forex4you.mu/complaints/
+footer.complaints.url.forex4you.svg: https://www.forex4you.com/en/complaints/
+footer.complaints.url.markets4you.bvi: https://www.forex4you.com/ru/complaints/
+footer.complaints.url.markets4you.by: https://www.forex4you.by/complaints/
+footer.complaints.url.markets4you.mu: https://www.forex4you.mu/complaints/
+footer.complaints.url.markets4you.svg: https://www.forex4you.com/en/complaints/
+footer.copyright.forex4you.bvi: ©Copyright E-Global Trade & Finance Group, Inc. 2007
+  - {{this_year}}
+footer.copyright.forex4you.by: ©Copyright E-Global Trade & Finance Group, Inc. 2007
+  - {{this_year}}
+footer.copyright.forex4you.mu: ©Copyright E-Global Trade & Finance SVG LLC. 2007 -
+  {{this_year}}
+footer.copyright.forex4you.svg: ©Copyright E-Global Trade & Finance SVG LLC. 2007
+  - {{this_year}}
+footer.copyright.markets4you.bvi: ©Copyright E-Global Trade & Finance Group, Inc.
+  2007 - {{this_year}}
+footer.copyright.markets4you.by: ©Copyright E-Global Trade & Finance Group, Inc. 2007
+  - {{this_year}}
+footer.copyright.markets4you.mu: ©Copyright E-Global Trade & Finance SVG LLC. 2007
+  - {{this_year}}
+footer.copyright.markets4you.svg: ©Copyright E-Global Trade & Finance SVG LLC. 2007
+  - {{this_year}}
+footer.documentation.title: Documentation
+footer.documentation.url.forex4you.bvi: https://www.forex4you.com/ru/documentation/
+footer.documentation.url.forex4you.by: https://www.forex4you.by/documentation/
+footer.documentation.url.forex4you.mu: https://www.forex4you.mu/documentation/
+footer.documentation.url.forex4you.svg: https://www.forex4you.com/en/documentation/
+footer.documentation.url.markets4you.bvi: https://www.forex4you.com/ru/documentation/
+footer.documentation.url.markets4you.by: https://www.forex4you.by/documentation/
+footer.documentation.url.markets4you.mu: https://www.forex4you.mu/documentation/
+footer.documentation.url.markets4you.svg: https://www.forex4you.com/en/documentation/
+footer.labels.great: Great
+footer.labels.support: SUPPORT 24/7
+footer.labels.trustpilot: Trustpilot
+footer.privacy_policy.title: Privacy policy
+footer.privacy_policy.url.forex4you.bvi: http://www.forex4you.org/privacy-policy/
+footer.privacy_policy.url.forex4you.by: https://www.forex4you.by/privacy-policy/
+footer.privacy_policy.url.forex4you.mu: https://www.forex4you.mu/privacy-policy/
+footer.privacy_policy.url.forex4you.svg: http://www.forex4you.com/en/privacy-policy/
+footer.privacy_policy.url.markets4you.bvi: http://www.forex4you.org/privacy-policy/
+footer.privacy_policy.url.markets4you.by: https://www.forex4you.by/privacy-policy/
+footer.privacy_policy.url.markets4you.mu: https://www.forex4you.mu/privacy-policy/
+footer.privacy_policy.url.markets4you.svg: http://www.forex4you.com/en/privacy-policy/
+footer.risk_disclosure.title: Risk disclosure
+footer.risk_disclosure.url.forex4you.bvi: http://www.forex4you.org/risk-disclosure/
+footer.risk_disclosure.url.forex4you.by: https://www.forex4you.by/risk-disclosure/
+footer.risk_disclosure.url.forex4you.mu: https://www.forex4you.mu/risk-disclosure/
+footer.risk_disclosure.url.forex4you.svg: http://www.forex4you.com/en/risk-disclosure/
+footer.risk_disclosure.url.markets4you.bvi: http://www.forex4you.org/risk-disclosure/
+footer.risk_disclosure.url.markets4you.by: https://www.forex4you.by/risk-disclosure/
+footer.risk_disclosure.url.markets4you.mu: https://www.forex4you.mu/risk-disclosure/
+footer.risk_disclosure.url.markets4you.svg: http://www.forex4you.com/en/risk-disclosure/
+footer.terminals.android.url.bvi: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.android.url.by: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.android.url.mu: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.android.url.svg: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.apple.url.bvi: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.apple.url.by: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.apple.url.mu: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.apple.url.svg: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.desktop.url.bvi: https://www.forex4you.com/en/wp-content/download/mt4setup.exe
+footer.terminals.desktop.url.by: https://www.forex4you.com/en/wp-content/download/mt4setup.exe
+footer.terminals.desktop.url.forex4you: https://{{__public_domain}}/en/platforms
+footer.terminals.desktop.url.markets4you: https://www.markets4you.com/en/markets4you-platforms/
+footer.terminals.desktop.url.mu: https://www.forex4you.com/en/wp-content/download/mt4setup.exe
+footer.terminals.desktop.url.svg: https://www.forex4you.com/en/wp-content/download/mt4setup.exe
+footer.terminals.tablet.url.bvi: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.tablet.url.by: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.tablet.url.mu: https://forex4you.app.link/gmfrl3MAgJ
+footer.terminals.tablet.url.svg: https://forex4you.app.link/gmfrl3MAgJ
+forgot_password.buttons.back: Back
+forgot_password.buttons.continue: Continue
+forgot_password.complete.action.login.failure: Failed to sign in!
+forgot_password.complete.action.login.pending: Sign in
+forgot_password.complete.action.login.processing: Signing in...
+forgot_password.complete.action.login.success: You have been signed in!
+forgot_password.complete.action.redirect.pending: Redirect to trader room
+forgot_password.complete.action.redirect.processing: Redirecting to trader room...
+forgot_password.complete.action.redirect.success: Please, wait while the page refreshes.
+forgot_password.complete.action.redirect_to_login.processing: Redirecting to login
+  page...
+forgot_password.title: Forgot password
+form_contains_error: Form contains errors. Please check the data entered.
+form_saved_successfully: Form saved successfully!
+fxBooleanFilter.false: false
+fxBooleanFilter.true: true
+input_too_long: Field value must be at most {{max}} symbols long
+input_too_short: Field value must be at least {{min}} symbols long
+invalid_address_format: Address field accepts only latin letters and must be 3 to
+  128 letters long
+invalid_city_format: City name accepts only latin letters and must be 3 to 128 letters
+  long
+invalid_country_code: Invalid country code
+invalid_credentials: Invalid username or password
+invalid_email: Invalid email
+invalid_email_verification: Email address is not verified.
+invalid_phone_verification: Phone number is not verified.
+invalid_verification_code_format: Invalid format of verification code
+language.en: English
+language.en_vn: English
+language.es: Spanish
+language.id: Indonesian
+language.ms: Malay
+language.my: Malay
+language.ru: Russian
+language.th: Thai
+language.vi: Vietnamese
+language.vi_vn: Vietnamese
+language.zh: Chinese
+latin_letters_only: This field accepts only latin letters
+login.invalid_captcha: Invalid captcha
+login.invalid_token: Your session has expired. Please log in again.
+login_invalid_verification.email: Your email address is not verified. <a class="verify-link">Verify
+  email</a>
+login_invalid_verification.phone: Your phone number is not verified. <a class="verify-link">Verify
+  phone</a>
+markets4you.action.redirect: Visit Markets4you
+markets4you.banner.title: Forex4you has been rebranded to Markets4you! Follow the
+  link to visit our new website.
+markup: By using this Partner Code, additional trading conditions may apply
+no_markup: Standard conditions are applied
+no_result_found: No results found
+not_a_phone_number: It is not a phone number
+only_mobile_number: Only mobile number is allowed
+paginator.item_range: '{{start}} - {{end}} of {{total}}'
+paginator.per_page: View
+pamm.inverstor: PAMM Investor
+pamm.manager: PAMM Manager
+partner.banners.alert.banners_request_error: Something went wrong with while requesting
+  banners
+partner.banners.alert.individual_leader_wrong_url: Url you provided is invalid, please
+  copy leader profile url from www.share4you.com
+partner.banners.banner_group.header: '{{width}} px wide and {{height}} px tall'
+partner.banners.category.accounts: Account Types
+partner.banners.category.followers: For Followers
+partner.banners.category.general: General
+partner.banners.category.leaders: For Leaders
+partner.banners.category.promotion-win-toyota-fortuner: Win Toyota Fortuner Promotion
+partner.banners.category.trade-spec: Trading Options
+partner.banners.common.adwords_header: AdWords copy
+partner.banners.common.benifits_header: Benifits
+partner.banners.common.company_product_description_header: Company and products description
+partner.banners.common.facebook_header: Facebook copy
+partner.banners.common.sample_banner_text: Open a real account
+partner.banners.copy.error: Copy failed...
+partner.banners.copy.success: Copied!
+partner.banners.copy.unsupported: Copying unsupported by your browser.
+partner.banners.type.facebook: Facebook Banners
+partner.banners.type.web: Web Banners
+partner.logo.errors.request_error: Something went wrong while requesting logotypes
+partner.logo.group.header.forex4you: Forex4you
+partner.logo.group.header.icons: Icons
+partner.logo.group.header.markets4you: Markets4you
+partner.logo.group.header.powered_by: Powered By
+partner.logo.group.header.share4you: Share4you
+partner.marketing.websites.forex4you: https://www.forex4you.com/en/
+partner.marketing.websites.partners: https://partners.forex4you.com/en/
+partner.marketing.websites.registration: https://account.forex4you.com/en/user-registration/
+partner.marketing.websites.share4you: https://www.share4you.com/en/
+partner.media.alert.request_error: Something went wrong while requesting your content
+partner.media.size.1080p: HD1080p (1920x1080)
+partner.media.size.144p: 144p (265x144)
+partner.media.size.240p: 240p (426x240)
+partner.media.size.360p: 360p (640x360)
+partner.media.size.480p: 480p (854x480)
+partner.media.size.720p: HD720p (1280x720)
+partner.media.size.presentation_large: Large (1440x839)
+partner.media.size.presentation_medium: Medium (960x569)
+partner.media.size.presentation_small: Small (480x299)
+partner.media.subject.adv-with-google: Advertising With Google
+partner.media.subject.analytics: Analytics
+partner.media.subject.create-website: Create Website
+partner.media.subject.digital-marketing: Digital Marketing
+partner.media.subject.email-marketing: Email Marketing
+partner.media.subject.sem: Search Engine Marketing
+partner.media.subject.seo: Search Engine Optimisation
+partner.media.subject.share4you-followers: Share4you Followers
+partner.media.subject.share4you-leaders: Share4you Leaders
+partner.media.subject.smm: Social Media Marketing
+partner.presentation.header: Presentations
+partner.presentation.labels.size: Presentation size
+partner.prints.errors.request_error: Something went wrong while requesting prints
+partner.prints.group.header.forex4you: Forex4you
+partner.prints.group.header.partners: Partners
+partner.prints.group.header.share4you-followers: Share4you Followers
+partner.prints.group.header.share4you-leaders: Share4you Leaders
+partner.prints.medium.brochure: Brochures
+partner.prints.medium.rollup: Rollups
+partner.prints.preview.label.inside_fold: Inside fold
+partner.prints.preview.label.outside_fold: Outside fold
+partner.promotions.alert.request_error: Something went wrong while requesting promotions
+partner.promotions.brand.forex4you: Forex4you
+partner.promotions.brand.share4you: Share4you
+partner.promotions.car_lottery.header: Win Toyota Fortuner
+partner.referral_links.link_label.forex4you: Forex4you website
+partner.referral_links.link_label.partners: Partner website
+partner.referral_links.link_label.registration: Registration page
+partner.referral_links.link_label.registration_cent_ndd: Cent Pro Registration
+partner.referral_links.link_label.registration_cent_ndd_mt5: MT5 Cent Pro Registration
+partner.referral_links.link_label.registration_classic_ndd: Classic Pro Registration
+partner.referral_links.link_label.registration_classic_ndd_mt5: MT5 Classic Pro Registration
+partner.referral_links.link_label.registration_pro_stp_standard: Classic Standard
+  Registration
+partner.referral_links.link_label.registration_pro_stp_standard_mt5: MT5 Classic Standard
+  Registration
+partner.referral_links.link_label.share4you: Share4you website
+partner.video.header: Video
+partner.video.labels.size: Video size
+partner_affid: Special conditions apply.
+partner_clients.client_list.filter.tag.exclude_partner_transfer: Exclude Partner's
+  transfers
+partner_clients.client_list.filter.tag.keyword: Search by "{{value}}"
+partner_clients.client_list.filter.tag.level: Level {{value}}
+partner_clients.client_list.filter.tag.only_active: Active only
+partner_clients.client_list.filter.tag.partner_accounts: 'Partner Accounts: {{value}}'
+partner_clients.client_list.grid.header.commission: Commission
+partner_clients.client_list.grid.header.country: Country
+partner_clients.client_list.grid.header.created_at: Registration date
+partner_clients.client_list.grid.header.deposit: Deposits
+partner_clients.client_list.grid.header.last_activity: Last activity
+partner_clients.client_list.grid.header.last_deposit: Last deposit
+partner_clients.client_list.grid.header.level: Level
+partner_clients.client_list.grid.header.name: Trader
+partner_clients.client_list.grid.header.orders: Open Orders
+partner_clients.client_list.grid.header.partner: Partner
+partner_clients.client_list.grid.header.s4u_profit_commission: S4y Profit Commission
+partner_clients.client_list.grid.header.s4u_volume_commission: S4y Volume Commission
+partner_clients.client_list.grid.header.user_id: User ID
+partner_clients.client_list.grid.header.volume: Volume
+partner_clients.client_list.grid.header.withdrawal: Withdrawals
+partner_clients.client_profile.open_trades: '{{number}} open trades'
+partner_program.067.title: Affiliate 9
+partner_program.070.title: IB Ladder
+partner_program.071.title: Multi-Level Ladder
+partner_program.072.title: IB Ladder
+partner_program.073.title: LT Agent 5 Indonesia
+partner_program.077.title: Multi-level 3
+partner_program.078.title: IB Affiliate
+partner_program.080.title: Multi-level 2
+partner_program.081.title: Multi-level 2
+partner_program.084.title: Multi-level 5
+partner_program.085.title: Multi-level
+partner_program.086.title: Multi-level 3
+partner_program.087.title: MIB Program
+partner_program.088.title: MIB Performance
+partner_program.089.title: Multi-level 3
+partner_program.090.title: MIB Laos
+partner_program.091.title: Pro Markup20
+partner_program.092.title: IB Affiliate
+partner_program.093.title: MIB Program
+partner_program.094.title: Partner program is disabled
+partner_program.095.title: Multi-level 3
+partner_program.097.title: MIB Performance
+partner_program.098.title: MIB Performance
+partner_program.099.title: MIB Performance
+partner_program.100.title: MIB Laos
+partner_program.101.title: MIB Laos
+partner_program.102.title: MIB Performance
+partner_program.103.title: MIB Laos
+partner_program.104.title: MIB Laos
+partner_program.105.title: MIB Performance
+partner_program.106.title: MIB Laos
+partner_program.107.title: MIB Laos
+partner_program.108.title: MIB Laos
+partner_program.109.title: MIB Laos
+partner_program.110.title: MIB Laos
+partner_program.111.title: MIB Laos
+partner_program.112.title: MIB Laos
+partner_program.113.title: Agent 80%
+partner_program.114.title: MIB Laos
+partner_program.115.title: MIB Laos
+partner_program.116.title: MIB Laos
+partner_program.117.title: MIB Performance
+partner_program.118.title: MIB Laos
+partner_program.119.title: MIB Laos
+partner_program.120.title: MIB Laos
+partner_program.121.title: MIB Performance
+partner_program.123.title: MIB Performance
+partner_program.124.title: MIB Laos
+partner_program.125.title: MIB Performance
+partner_program.126.title: Pro Markup20
+partner_program.127.title: Affiliate 9
+partner_program.128.title: MIB Laos
+partner_program.129.title: MIB Laos
+partner_program.130.title: MIB Laos
+partner_program.131.title: MIB Laos
+partner_program.132.title: MIB Laos
+partner_program.133.title: Multi-level 3
+partner_program.134.title: MIB Laos
+partner_program.135.title: MIB Laos
+partner_program.136.title: MIB Laos
+partner_program.137.title: MIB Laos
+partner_program.138.title: MIB Laos
+partner_program.139.title: MIB Laos
+partner_program.A15.title: ProSTP Markup 15 with MTP
+partner_program.A7.title: ProSTP Markup 7 with MTP
+partner_program.AI.title: Agent IO
+partner_program.AP.title: Agent Profit
+partner_program.AS.title: Agent
+partner_program.AS2.title: Agent 65%
+partner_program.C0.title: Partner program is disabled
+partner_program.IB2.title: Agent 25%
+partner_program.IB3.title: Agent 30%
+partner_program.IB4.title: Agent 40%
+partner_program.IB6.title: Agent 60%
+partner_program.IBP.title: Agent Profit
+partner_program.IBR.title: Agent 50%
+partner_program.IBS.title: Agent 75%
+partner_program.L30.title: LT Agent 30 partner program
+partner_program.L40.title: LT Agent 40 partner program
+partner_program.L50.title: LT Agent 50 partner program
+partner_program.LT7.title: Affiliate 7
+partner_program.LT9.title: Affiliate 9
+partner_program.LTA.title: Affiliate
+partner_program.LTN.title: Affiliate 9 MY
+partner_program.LTS.title: Affiliate
+partner_program.M15.title: ProSTP Markup 15
+partner_program.M17.title: ProSTP Markup17
+partner_program.M2.title: ProSTP Markup 2
+partner_program.M30.title: ProSTP Markup 30
+partner_program.M40.title: ProSTP Markup 40
+partner_program.M50.title: ProSTP Markup 50
+partner_program.M7.title: ProSTP Markup 7
+partner_program.N15.title: ProSTP Markup 15 with MTP
+partner_program.N7.title: ProSTP Markup 7 with MTP
+partner_program.P0.title: Partner program is disabled
+partner_program.S15.title: ProSTP Markup 15
+partner_program.S17.title: ProSTP Markup17
+partner_program.S2.title: ProSTP Markup 2
+partner_program.S30.title: ProSTP Markup 30
+partner_program.S40.title: ProSTP Markup 40
+partner_program.S50.title: ProSTP Markup 50
+partner_program.S7.title: ProSTP Markup 7
+partner_program.SI.title: Agent-2
+partner_program.SU2.title: Agent 65%
+partner_program.VS.title: Agent 85%
+partner_program.VU4.title: Agent 85%
+partner_registration.account.login: Account number
+partner_registration.account.password: Password
+partner_registration.markup.091: $17
+partner_registration.markup.126: $17
+partner_registration.markup.markup15: $15
+partner_registration.markup.markup17: $17
+partner_registration.markup.markup2: $2
+partner_registration.markup.markup30: $30
+partner_registration.markup.markup40: $40
+partner_registration.markup.markup50: $50
+partner_registration.markup.markup7: $7
+partner_registration.notification.message: 'Please take note of your password, as
+  it will be required for future balance operations. For security reasons, we will
+  not email you your password, and this will be the only time that it is displayed.
+  To restore your password, please go to this link:'
+partner_registration.notification.message_without_link: Please take note of your password,
+  as it will be required for future balance operations. For security reasons, we will
+  not email you your password, and this will be the only time that it is displayed.
+partner_registration.success.body: Please find your partner account login details
+  below.
+partner_wizard.step1.heading: Welcome, {{name}}!
+partner_wizard.step3.forex_for_you_link: <a href="https://forex4you.com/en/?affid={{affid}}"
+  target="_blank">forex4you.com/en/?affid={{affid}}</a>
+partner_wizard.step3.partner_code: Your partner code is {{affid}}
+partner_wizard.step3.share_for_you_link: <a href="https://share4you.com/en/?affid={{affid}}"
+  target="_blank">share4you.com/en/?affid={{affid}}</a>
+phone_number_too_long: The phone number is too long
+phone_number_too_short: The phone number is too short
+public.common.sso.labels.or_via: or via
+public.common.username_input.labels.default: Email or phone number
+public.common.username_input.labels.email: Email
+public.common.username_input.labels.phone: Phone number
+public.common.verification_types.labels.change.email: Change email
+public.common.verification_types.labels.change.sms: Change sms
+public.common.verification_types.labels.change.whatsapp: Send to WhatsApp
+public.common.verification_types.labels.send_to.email: Send to email
+public.common.verification_types.labels.send_to.sms: Send to sms
+public.common.verification_types.labels.send_to.whatsapp: Send to WhatsApp
+public.header.buttons.create_account: Create account
+public.header.buttons.login: Login
+referral_code.label: Referral code
+referral_code.warning: Please check the referral code carefully as futher editing
+  of that will not be available
+renew_token.action.authenticate.failure: Failed to sign in!
+renew_token.action.authenticate.pending: Sign in
+renew_token.action.authenticate.processing: Signing in...
+renew_token.action.authenticate.success: You have been signed in!
+renew_token.action.redirect.pending: Redirect to trader room
+renew_token.action.redirect.processing: Redirecting to trader room...
+renew_token.action.redirect.success: Please, wait while the page refreshes.
+renew_token.header: Please wait while we process redirect
+renew_token.page_title: Processing redirect
+reset_password.buttons.continue: Continue
+reset_password.fields.code: Confirmation code
+reset_password.fields.confirmation_password: Confirm new password
+reset_password.fields.password: New password
+reset_password.labels.resend_code: Resend code
+reset_password.title: Reset password
+server.class.cent: Cent
+server.class.cent_ndd: Cent NDD
+server.class.classic: Classic
+server.class.classic_ndd: Classic NDD
+server.class.demo: Demo
+server.class.pro_stp: Pro STP
+server.client.mt4.default: MT4
+server.client.mt4.lower: (mt4)
+server.client.mt5.default: MT5
+server.client.mt5.lower: (mt5)
+server.type.cent.default: Cent
+server.type.cent.lower: (cent)
+server.type.cent_ndd.default: Cent NDD
+server.type.cent_ndd.lower: (cent NDD)
+server.type.classic.default: Classic
+server.type.classic.lower: (classic)
+server.type.classic_ndd.default: Pro STP
+server.type.classic_ndd.lower: (pro stp)
+server.type.demo.default: Demo
+server.type.demo.lower: (demo)
+server.type.pro_stp_standard.default: Standard Pro STP
+server.type.pro_stp_standard.lower: (standard pro stp)
+share4you.charts.data_as_of: Data as of {{date}}
+share4you.charts.labels.equity_stop_loss: Equity Stop Loss ({{amount}})
+share4you.charts.series.absolute_gain: Total Gain
+share4you.charts.series.balance: Balance
+share4you.charts.series.copied_volume: Copied Volume
+share4you.charts.series.daily_gain: Daily Gain
+share4you.charts.series.deposits: Deposits
+share4you.charts.series.drawdown: Drawdown
+share4you.charts.series.drawdown_history: Drawdown
+share4you.charts.series.earned_commission: Earned Commission
+share4you.charts.series.equity: Equity
+share4you.charts.series.follower_funds: Follower Funds
+share4you.charts.series.followers: Active followers
+share4you.charts.series.investments: Investments
+share4you.charts.series.monthly_gain: Monthly Gain
+share4you.charts.series.page_views: Page Views
+share4you.charts.series.profit: Profit
+share4you.charts.series.risk_history: Risk level
+share4you.charts.series.withdrawals: Withdrawals
+share4you.charts.type.absolute_gain: Total Gain
+share4you.charts.type.copied_volume: Copied Volume
+share4you.charts.type.daily_gain: Daily Gain
+share4you.charts.type.drawdown_history: Drawdown
+share4you.charts.type.earned_commission: Earned Commission
+share4you.charts.type.follower_balance: Balance
+share4you.charts.type.follower_equity: Equity
+share4you.charts.type.follower_funds: Follower Funds
+share4you.charts.type.follower_profit: Profit
+share4you.charts.type.followers: Followers
+share4you.charts.type.leader_balance: Balance
+share4you.charts.type.leader_equity: Equity
+share4you.charts.type.leader_profit: Profit
+share4you.charts.type.monthly_gain: Monthly Gain
+share4you.charts.type.page_views: Page Views
+share4you.charts.type.risk_history: Risk history
+share4you.charts.value.copied_volume_suffix: lots
+share4you.copy_rule.button.copy: Start to copy
+share4you.copy_rule.button.edit: Save changes
+share4you.copy_rule.error.copy_rule_account_creation_failed: Copy rule account could
+  not be created
+share4you.copy_rule.error.copy_rule_account_not_created_yet: Copy rule account is
+  not created yet - it may take a couple minutes
+share4you.copy_rule.error.copy_rule_submit_failed: Something went wrong while saving
+  copy rule
+share4you.copy_rule.error.investment_above_max: Maximum investment is {{max}} {{currency}}
+share4you.copy_rule.error.investment_below_min: Minimum investment is {{min}} {{currency}}
+share4you.copy_rule.error.investment_empty: Investment is empty
+share4you.copy_rule.error.max_total_volume_above_max: Maximum value is {{max}}
+share4you.copy_rule.error.max_total_volume_below_min: Minimum value is {{min}}
+share4you.copy_rule.error.max_trade_volume_above_max: Maximum value is {{max}}
+share4you.copy_rule.error.max_trade_volume_below_min: Minimum value is {{min}}
+share4you.copy_rule.error.min_trade_volume_above_max: Maximum value is {{max}}
+share4you.copy_rule.error.min_trade_volume_negative: Negative value not allowed
+share4you.copy_rule.error.scale_above_max: Maximum multiplier is {{max}}
+share4you.copy_rule.error.scale_below_min: Minimum multiplier should be >={{min}}
+share4you.copy_rule.error.stop_loss_above_max: Maximum value is {{max}}
+share4you.copy_rule.error.stop_loss_below_min: Minimum value is {{min}}
+share4you.copy_rule.input.auto_rescale.False: false
+share4you.copy_rule.input.auto_rescale.True: true
+share4you.copy_rule.investment.hint: Equivalent to {{amount}} {{currency}}
+share4you.copy_rule.options.collapse: Less options
+share4you.copy_rule.options.expand: More options
+share4you.copy_rule.otp_verification.confirm_btn: Confirm
+share4you.copy_rule.otp_verification.confirm_text: Please enter confirmation code
+  that we send to <strong>{{recipient}}</strong>
+share4you.copy_rule.otp_verification.field_label: Confirmation code
+share4you.copy_rule.otp_verification.send_btn: Send verification code
+share4you.copy_rule.otp_verification.send_text: To create the copy rule, send a verification
+  code to <strong>{{recipient}}</strong>?
+share4you.copy_rule.otp_verification.title: Confirm action
+share4you.copy_rule.saved_successfully: Copy Rule saved successfully!
+share4you.copy_rule.scale.hint_greater: Inputted multiplier is by {{difference}}%
+  higher, than recommended. This may result in excessive risk taking.
+share4you.copy_rule.scale.hint_less: Inputted multiplier is by {{difference}}% lower,
+  than recommended. This may result in lower risk and profitability.
+share4you.copy_rule.scale.hint_same: Orders will be copied with same volume as leader's
+share4you.copy_rule.scale.standard: Standard ({{scale}})
+share4you.copy_rule.symbols.selected: Copy rule will be restricted to {{symbols}}
+  only
+share4you.follower_account.copy_rules.action_block.button.leave_feedback: Leave feedback
+share4you.follower_account.copy_rules.action_block.button.pause: Pause
+share4you.follower_account.copy_rules.action_block.button.reject: Reject
+share4you.follower_account.copy_rules.action_block.button.resume: Resume
+share4you.follower_account.copy_rules.action_block.tooltip.delete: Delete current
+  Copy Rule
+share4you.follower_account.copy_rules.action_block.tooltip.edit: Edit current Copy
+  Rule
+share4you.follower_account.copy_rules.action_block.tooltip.pause: Pause current Copy
+  Rule
+share4you.follower_account.copy_rules.action_block.tooltip.reject: Reject current
+  Copy Rule
+share4you.follower_account.copy_rules.action_block.tooltip.resume: Resume current
+  Copy Rule
+share4you.follower_account.feedback.rating.1: Very bad
+share4you.follower_account.feedback.rating.2: Bad
+share4you.follower_account.feedback.rating.3: Normal
+share4you.follower_account.feedback.rating.4: Good
+share4you.follower_account.feedback.rating.5: Very good
+share4you.leader_account.description.language.de: German
+share4you.leader_account.description.language.en: English
+share4you.leader_account.description.language.es: Spanish
+share4you.leader_account.description.language.fr: French
+share4you.leader_account.description.language.ms: Malay
+share4you.leader_account.description.language.ru: Russian
+share4you.leader_account.description.language.th: Thai
+share4you.leader_account.description.language.zhs: Simpified Chinese
+share4you.leader_account.description.language.zht: Chinese
+share4you.leader_account.followers.follower_average_equity: Average Equity
+share4you.leader_account.followers.joined_last_month: Joined (30 days)
+share4you.leader_account.followers.left_last_month: Left (30 days)
+share4you.leader_account.followers.multiplier.above: above
+share4you.leader_account.followers.multiplier.below: below
+share4you.leader_account.followers.multiplier.normal: normal
+share4you.leader_account.trade_commissions.commission_model.-: '-'
+share4you.leader_account.trade_commissions.commission_model.commission: Volume based
+share4you.leader_account.trade_commissions.commission_model.mixed: Mixed
+share4you.leader_account.trade_commissions.commission_model.profit: Profit fee
+share4you.leader_profile.account_age.days: '{0} 0 days|{1} 1 day|]1,Inf] {{count}}
+  days'
+share4you.leader_profile.account_age.month: 1 month
+share4you.leader_profile.account_age.months: '{{count}} months'
+share4you.leader_profile.account_age.year: 1 year
+share4you.leader_profile.account_age.years: '{{count}} years'
+share4you.leader_profile.alert.unwatch_error: Error removing leader from your watchlist.
+  Try again later.
+share4you.leader_profile.alert.unwatch_success: Leader has been removed from your
+  watchlist!
+share4you.leader_profile.alert.watch_error: Error adding leader to your watchlist.
+  Try again later.
+share4you.leader_profile.alert.watch_success: Leader has been added to your watchlist!
+share4you.leader_profile.button.unwatch: Remove from watchlist
+share4you.leader_profile.button.watch: Add to watchlist
+share4you.leader_profile.equity_stop_loss_description: Stop loss will be activated
+  once leader equity declines to set level
+share4you.leader_profile.equity_stop_loss_set_description: Stop loss will be activated
+  once leader equity declines to {{amount}} ({{percent}} from current equity)
+share4you.leader_profile.gain_period.in_days: '{0} in 0 days|{1} in 1 day|]1,Inf]
+  in {{count}} days'
+share4you.leader_profile.gain_period.in_month: in 1 month
+share4you.leader_profile.gain_period.in_months: in {{count}} months
+share4you.leader_profile.gain_period.in_year: in 1 year
+share4you.leader_profile.gain_period.in_years: in {{count}} years
+share4you.leader_profile.header.last_activity: Last activity {{last_activity}} ago
+share4you.leader_profile.header.rank: '#{{rank}} of {{total}} in Rating'
+share4you.leader_profile.header.reviews: '{{count}} reviews'
+share4you.leader_profile.notification.leader_is_archived: Leader account is archived
+share4you.leader_profile.page_title: '{{name}}: Leader Profile | Share4you'
+share4you.leader_profile.review_count: '{0} No reviews yet|{1} 1 Review|]1,Inf] {{count}}
+  Reviews'
+share4you.leader_profile.review_likes: '{0} No likes yet|{1} 1 Like|]1,Inf] {{count}}
+  Likes'
+share4you.leader_profile.simulate.date_range.1m: 1 month
+share4you.leader_profile.simulate.date_range.2m: 2 months
+share4you.leader_profile.simulate.date_range.3m: 3 months
+share4you.leader_profile.simulate.date_range.6m: 6 months
+share4you.leader_profile.simulate.date_range.7d: 7 days
+share4you.leader_profile.simulate.date_range_short.1m: 1M
+share4you.leader_profile.simulate.date_range_short.2m: 2M
+share4you.leader_profile.simulate.date_range_short.3m: 3M
+share4you.leader_profile.simulate.date_range_short.6m: 6M
+share4you.leader_profile.simulate.date_range_short.7d: 7D
+share4you.leader_profile.simulate.min_deposit: <b>{{amount}} USD</b> is minimum required
+  deposit for this trader
+share4you.leader_profile.time_limit.1m: 1m
+share4you.leader_profile.time_limit.1y: 1y
+share4you.leader_profile.time_limit.3d: 3d
+share4you.leader_profile.time_limit.3m: 3m
+share4you.leader_profile.time_limit.6m: 6m
+share4you.leader_profile.time_limit.7d: 7d
+share4you.leader_profile.time_limit.all: All
+share4you.leader_profile.trade_size.count_label: '{{count}} trades'
+share4you.leader_profile.trade_size.loss_making.group.-100_to_-50: 50 - 100 pips
+share4you.leader_profile.trade_size.loss_making.group.-10_to_-5: 5 - 10 pips
+share4you.leader_profile.trade_size.loss_making.group.-20_to_-10: 10 - 20 pips
+share4you.leader_profile.trade_size.loss_making.group.-50_to_-20: 20 - 50 pips
+share4you.leader_profile.trade_size.loss_making.group.-5_to_0: < 5 pips
+share4you.leader_profile.trade_size.loss_making.group.-inf_to_-100: '> 100 pips'
+share4you.leader_profile.trade_size.profitable.group.0_to_5: < 5 pips
+share4you.leader_profile.trade_size.profitable.group.100_to_inf: '> 100 pips'
+share4you.leader_profile.trade_size.profitable.group.10_to_20: 10 - 20 pips
+share4you.leader_profile.trade_size.profitable.group.20_to_50: 20 - 50 pips
+share4you.leader_profile.trade_size.profitable.group.50_to_100: 50 - 100 pips
+share4you.leader_profile.trade_size.profitable.group.5_to_10: 5 - 10 pips
+share4you.leader_profile.traded_instruments.trade_count: '{0} No trades|{1} 1 trade|]1,Inf]
+  {{count}} trades'
+share4you.leader_settings.advisor.avatar_upload_success: Avatar updated!
+share4you.leader_settings.commission.leader_share: 'You receive: {{share}} USD'
+share4you.leader_settings.commission.modes.commission: Copied volume
+share4you.leader_settings.commission.modes.profit: Follower profit
+share4you.leader_settings.commission.partner_share: 'Partner receives: {{share}} USD'
+share4you.leader_settings.commission.percent_leader_share: 'You receive: {{share}}
+  %'
+share4you.leader_settings.commission.percent_partner_share: 'Partner receives: {{share}}
+  %'
+share4you.leader_settings.commission.valid_from: These settings will become effective
+  at {{date}}
+share4you.leaders_rating.aggression.aggression_high: High
+share4you.leaders_rating.aggression.aggression_low: Low
+share4you.leaders_rating.aggression.aggression_medium: Medium
+share4you.leaders_rating.average_trade_time.day_trader: Day trader (2h-24h)
+share4you.leaders_rating.average_trade_time.long_term_trader: Long term trader (1w
+  and more)
+share4you.leaders_rating.average_trade_time.scalper: Scalper (0h-2h)
+share4you.leaders_rating.average_trade_time.swing_trader: Swing trader (1d-1w)
+share4you.leaders_rating.commission_type.commission: Volume based fee
+share4you.leaders_rating.commission_type.profit: Performance Fee
+share4you.leaders_rating.dashboard.button.contest_conditions: Contest conditions
+share4you.leaders_rating.dashboard.button.see_all: See all {{count}} leaders
+share4you.leaders_rating.dashboard.group.equity: Leaders with equity above 1000 USD
+share4you.leaders_rating.dashboard.group.experience: Experienced leaders
+share4you.leaders_rating.dashboard.group.local: Local leaders
+share4you.leaders_rating.dashboard.group.low_medium_risk: Low and medium risk leaders
+share4you.leaders_rating.dashboard.group.reviews: Leaders with reviews
+share4you.leaders_rating.dashboard.group.top_performing: Top performing
+share4you.leaders_rating.dashboard.group.trending: Trending leaders
+share4you.leaders_rating.dashboard.group.watched: Watched leaders
+share4you.leaders_rating.dashboard.tag.contest_candidate.1.title: $500
+share4you.leaders_rating.dashboard.tag.contest_candidate.1.tooltip: Candidate Nr.1
+share4you.leaders_rating.dashboard.tag.contest_candidate.2.title: $300
+share4you.leaders_rating.dashboard.tag.contest_candidate.2.tooltip: Candidate Nr.2
+share4you.leaders_rating.dashboard.tag.contest_candidate.3.title: $100
+share4you.leaders_rating.dashboard.tag.contest_candidate.3.tooltip: Candidate Nr.3
+share4you.leaders_rating.days_abbr: d
+share4you.leaders_rating.filter.average_trade_times.label: Average Trade Time
+share4you.leaders_rating.filter.average_trade_times.placeholder: Select avg. trade
+  time
+share4you.leaders_rating.filter.country.label: Leader country
+share4you.leaders_rating.filter.country.placeholder: Select leader country
+share4you.leaders_rating.filter.currencies.label: Account currency
+share4you.leaders_rating.filter.currencies.placeholder: Select account currency
+share4you.leaders_rating.filter.investment.label: Would like to invest
+share4you.leaders_rating.filter.investment.placeholder: Maximum investment amount
+share4you.leaders_rating.filter.leader_set.all: All
+share4you.leaders_rating.filter.leader_set.rated: Rated
+share4you.leaders_rating.filter.leader_set.watched: Watched
+share4you.leaders_rating.filter.photo: Only leaders with photo
+share4you.leaders_rating.filter.reviews: Only leaders with reviews
+share4you.leaders_rating.filter.risks.label: Risk level
+share4you.leaders_rating.filter.risks.placeholder: Select risk level
+share4you.leaders_rating.filter.service_type.label: Account type
+share4you.leaders_rating.filter.service_type.placeholder: Select account type
+share4you.leaders_rating.filter.tag.accountType: Account types
+share4you.leaders_rating.filter.tag.age_in_days: Account Age ({{value}})
+share4you.leaders_rating.filter.tag.aggression: Trading Aggressiveness ({{value}})
+share4you.leaders_rating.filter.tag.average_rating: Average Score ({{value}})
+share4you.leaders_rating.filter.tag.average_trade_time: Avg. Trade Time ({{value}})
+share4you.leaders_rating.filter.tag.average_trade_times: 'Average trade time: {{value}}'
+share4you.leaders_rating.filter.tag.average_weekly_gain: Avg. Weekly Gain ({{value}})
+share4you.leaders_rating.filter.tag.best_trade_30d: Best Trade ({{value}})
+share4you.leaders_rating.filter.tag.commission_type: Commission type
+share4you.leaders_rating.filter.tag.copy_commission: Copy commission per lot ({{value}})
+share4you.leaders_rating.filter.tag.country: 'Country: {{value}}'
+share4you.leaders_rating.filter.tag.currencies: 'Currency: {{value}}'
+share4you.leaders_rating.filter.tag.daily_loss_expectation: Expectaiton of Daily Loss
+  ({{value}})
+share4you.leaders_rating.filter.tag.equity: Equity ({{value}})
+share4you.leaders_rating.filter.tag.follower_funds: Follower Funds ({{value}})
+share4you.leaders_rating.filter.tag.followers: Active Followers ({{value}})
+share4you.leaders_rating.filter.tag.followers_profit: Followers' Profit ({{value}})
+share4you.leaders_rating.filter.tag.gain: Gain ({{value}})
+share4you.leaders_rating.filter.tag.gain_30_days: Gain (30 day) {{value}}
+share4you.leaders_rating.filter.tag.gain_chart: Gain Chart ({{value}})
+share4you.leaders_rating.filter.tag.investment: Investment ({{value}})
+share4you.leaders_rating.filter.tag.max_drawdown: Max.  Drawdown ({{value}})
+share4you.leaders_rating.filter.tag.min_deposit: Min. deposit ({{value}})
+share4you.leaders_rating.filter.tag.partner_reward: Partner Reward ({{value}})
+share4you.leaders_rating.filter.tag.perf_score: 'Gain/MDD (30D): {{value}}'
+share4you.leaders_rating.filter.tag.photo: '{{value}}'
+share4you.leaders_rating.filter.tag.profitabilityCurrent: Current Profitability
+share4you.leaders_rating.filter.tag.profitabilityFixed: Fixed Profitability
+share4you.leaders_rating.filter.tag.profitability_current: Current Profitability ({{value}})
+share4you.leaders_rating.filter.tag.profitability_fixed: Fixed Profitability ({{value}})
+share4you.leaders_rating.filter.tag.profitable_trades_30_days: Profitable Trades ({{value}})
+share4you.leaders_rating.filter.tag.range.gt: '> {{value}}'
+share4you.leaders_rating.filter.tag.range.in: '{{min}} - {{max}}'
+share4you.leaders_rating.filter.tag.range.lt: < {{value}}
+share4you.leaders_rating.filter.tag.rank: Rank ({{value}})
+share4you.leaders_rating.filter.tag.reviews: '{{value}}'
+share4you.leaders_rating.filter.tag.risks: 'Risk level: {{value}}'
+share4you.leaders_rating.filter.tag.service_type: 'Account Type: {{value}}'
+share4you.leaders_rating.filter.tag.trader: Trader ({{value}})
+share4you.leaders_rating.filter.tag.trading_days_30d: 'Trading days (30 Day): {{value}}'
+share4you.leaders_rating.filter.tag.trading_method: Trading Method ({{value}})
+share4you.leaders_rating.filter.tag.trading_methods: 'Trading method: {{value}}'
+share4you.leaders_rating.filter.tag.volatility: Volatility ({{value}})
+share4you.leaders_rating.filter.tag.volatility_30d: Volatility (30 Day) {{value}}
+share4you.leaders_rating.filter.tag.watchers: Watchers ({{value}})
+share4you.leaders_rating.filter.tag.worst_trade_30d: Worst Trade ({{value}})
+share4you.leaders_rating.filter.trading_methods.label: Trading method
+share4you.leaders_rating.filter.trading_methods.placeholder: Select trading method
+share4you.leaders_rating.promo_block.header: Promote {{name}}
+share4you.leaders_rating.risk_level.high: High
+share4you.leaders_rating.risk_level.low: Low
+share4you.leaders_rating.risk_level.med: Medium
+share4you.leaders_rating.risk_level.na: N/A
+share4you.leaders_rating.risk_level.v_high: Very High
+share4you.leaders_rating.service_type.cent: Cent
+share4you.leaders_rating.service_type.cent_ndd: Cent NDD
+share4you.leaders_rating.service_type.classic: Classic
+share4you.leaders_rating.service_type.classic_ndd: Classic NDD
+share4you.leaders_rating.shared_watchlist.invalid_watchlist_error: This watchlist
+  does not exist or is private
+share4you.leaders_rating.table.header.age_in_days: Account Age
+share4you.leaders_rating.table.header.aggression: Trading Aggressiveness
+share4you.leaders_rating.table.header.average_rating: Average Score
+share4you.leaders_rating.table.header.average_trade_time: Avg. Trade Time
+share4you.leaders_rating.table.header.average_trade_times: Average trade time
+share4you.leaders_rating.table.header.average_weekly_gain: Avg. Weekly Gain
+share4you.leaders_rating.table.header.best_trade_30d: Best Trade
+share4you.leaders_rating.table.header.commission: Commission
+share4you.leaders_rating.table.header.copy_commission: Copy commission per lot
+share4you.leaders_rating.table.header.country: Country
+share4you.leaders_rating.table.header.currencies: Currency
+share4you.leaders_rating.table.header.daily_loss_expectation: Expectaiton of Daily
+  Loss
+share4you.leaders_rating.table.header.equity: Equity
+share4you.leaders_rating.table.header.equity_stop_loss: Equity Stop Loss
+share4you.leaders_rating.table.header.follower_funds: Follower Funds
+share4you.leaders_rating.table.header.followers: Active Followers
+share4you.leaders_rating.table.header.followers_profit: Followers' Profit
+share4you.leaders_rating.table.header.gain: Gain
+share4you.leaders_rating.table.header.gain_1y: Gain (1 year)
+share4you.leaders_rating.table.header.gain_30_days: Gain (30 day)
+share4you.leaders_rating.table.header.gain_chart: Gain Chart
+share4you.leaders_rating.table.header.investment: Investment
+share4you.leaders_rating.table.header.latest_daily_gain: Last trading day
+share4you.leaders_rating.table.header.max_drawdown: Max.  Drawdown
+share4you.leaders_rating.table.header.max_drawdown_1y: Max. Drawdown (1 year)
+share4you.leaders_rating.table.header.min_deposit: Min. deposit
+share4you.leaders_rating.table.header.partner_reward: Partner Reward
+share4you.leaders_rating.table.header.perf_score: Gain/MDD (30D)
+share4you.leaders_rating.table.header.perf_score2: Score
+share4you.leaders_rating.table.header.photo: Photo
+share4you.leaders_rating.table.header.profitability_current: Current Profitability
+share4you.leaders_rating.table.header.profitability_fixed: Fixed Profitability
+share4you.leaders_rating.table.header.profitable_trades_30_days: Profitable Trades
+share4you.leaders_rating.table.header.reviews: Reviews
+share4you.leaders_rating.table.header.risks: Risk level
+share4you.leaders_rating.table.header.service_type: Account Type
+share4you.leaders_rating.table.header.trader: Trader
+share4you.leaders_rating.table.header.trading_days_30d: Trading days (30 Day)
+share4you.leaders_rating.table.header.trading_method: Trading Method
+share4you.leaders_rating.table.header.trading_methods: Trading method
+share4you.leaders_rating.table.header.volatility: Volatility
+share4you.leaders_rating.table.header.volatility_1y: Volatility (1 year)
+share4you.leaders_rating.table.header.volatility_30d: Volatility (30 Day)
+share4you.leaders_rating.table.header.watchers: Watchers
+share4you.leaders_rating.table.header.worst_trade_30d: Worst Trade
+share4you.leaders_rating.table.misc.copy_commission_amount: ${{amount}} per lot
+share4you.leaders_rating.table.misc.mixed_separator: and
+share4you.leaders_rating.table.tooltip.average_trade_time: Average time of holding
+  position
+share4you.leaders_rating.table.tooltip.followers_profit: Total Followers’ profit made
+  by copying trades of this Leader (USD). Only closed trades are taken into account.
+  Manually detached and modified by Followers trades are excluded from the ratio.
+share4you.leaders_rating.table.tooltip.gain: Time-Weighted Return (TWR) that measures
+  the performance of 1 money unit invested by a Leader in account since inception.
+  Its distinguishing characteristic is that cash inflows, cash outflows and amounts
+  invested over different time periods have no impact on the return. Calculated using
+  equity of the account.
+share4you.leaders_rating.table.tooltip.max_drawdown: Maximum current profitability
+  drawdown percentage in the history of the account
+share4you.leaders_rating.table.tooltip.min_deposit: Minimum recommended deposit (USD)
+share4you.leaders_rating.table.tooltip.mixed: Charged commission per lot and percentage
+  of the followers profit which is given to leader as a reward for positive performance.
+share4you.leaders_rating.table.tooltip.perf_score: 30 days gain divided by max drawdown
+share4you.leaders_rating.table.tooltip.perf_score2: Risk-adjusted return taking into
+  account volatility, drawdown, long-term and 30-days return
+share4you.leaders_rating.table.tooltip.profit_fee: A percentage of the followers profit
+  which is given to leader as a reward for positive performance.
+share4you.leaders_rating.table.tooltip.risks: Risk level depends on drawdown and volatility.
+  It can be low, medium, high or very high. With any risk level there is risk of losing
+  100% of the deposit.
+share4you.leaders_rating.table.tooltip.trading_method: Data according to the history
+  of the Leader's account within the last 30 days
+share4you.leaders_rating.table.tooltip.volatility: Standard deviation of daily returns
+share4you.leaders_rating.title: Filtered leaders
+share4you.leaders_rating.trading_methods.expert_advisor: Expert advisor
+share4you.leaders_rating.trading_methods.manual: Manual
+share4you.leaders_rating.trading_methods.mixed: Mixed
+share4you.pending_followers.action_block.button.accept: Accept
+share4you.pending_followers.action_block.button.decline: Decline
+share4you.service_types.cent: Cent Fixed
+share4you.service_types.cent-ndd: Cent Pro
+share4you.service_types.classic: Classic Fixed
+share4you.service_types.classic-ndd: Classic Pro
+share4you.service_types.pro-stp-spread-markup: Classic Pro
+share4you.service_types.pro-stp-standard: Classic Standard
+share4you.service_types.pro-stp-standard-high-markup: Classic Standard
+share4you.service_types.prostp: Classic Pro
+sso.msg.already_exist: 'Account with such email already exists in system, please go
+  to <a href="{{login_url}}"> Login page</a>
+
+  '
+sso.msg.country_is_forbidden: The service is not available for residents of {{country}}.
+sso.msg.linking_info_message: 'Your email is already registered. Enter the password
+  for your existing account to link it with {{sso_provider}}
+
+  '
+sso.msg.missing_required_data: Unfortunately, we could not retrieve your email. Please
+  pass the registration via standard form.
+sso.msg.not_found: User not found
+sso.msg.wait_registration: Please, wait while we finish the registration process.
+support_phone.bvi: 8-800-555-3948
+support_phone.by: +44 207 193 9932
+support_phone.mu: +44 162 895 3454
+support_phone.svg: +44 207 193 9932
+terms_and_conditions.bvi: I agree with %sterms &amp; conditions%s
+terms_and_conditions.by: I agree with %sterms &amp; conditions%s
+terms_and_conditions.mu: I agree with %sterms &amp; conditions%s
+terms_and_conditions.svg: I agree with %sterms &amp; conditions%s
+tour.step.leader_overview: Here you can find detailed information about Leader's trading.
+tour.step.leader_simulate: This is investment calculator. It helps to access possible
+  return on investment. The calculator is based on past performance statistics and
+  does not guarantee future results.
+tour.step.leader_simulate_copy: Click here to start copying Leader trades.
+tour.step.leader_simulate_investment: Enter here planned investment sum.
+tour.step.leaders_additional_filters: You can filter out Leaders based on your preferences,
+  such as performance, risk and other factors. Click here in order to add additional
+  filters.
+tour.step.leaders_cards: These are Leader cards. Here you can find Leaders from whom
+  you can start to copy trades.
+tour.step.leaders_filters: Here you can see selected filters. Remove filter by clicking
+  on 'cross'.
+tour.step.leaders_menu: Here you can find Share4you Leaders. Click here to see them.
+tour.step.leaders_name: Click here to learn more about the Leader.
+tour.step.s4u_deposit: Here you can manage funds of accounts. Add funds to activate
+  copying process.
+tour.step.s4u_welcome: We welcome you to Share4you! This quick intro will guide you
+  through main service components. It will take less than 3 minutes to complete all
+  steps.
+trading.order.history.filter.order_status.statuses.all: All
+trading.order.history.filter.order_status.statuses.closed: Closed
+trading.order.history.filter.order_status.statuses.open: Open
+trading.order.history.filter.order_status.statuses.pending: Pending
+trading.order.history.filter.order_type.types.ALL: All
+trading.order.history.filter.order_type.types.BALANCE: Balance
+trading.order.history.filter.order_type.types.BUY: Buy
+trading.order.history.filter.order_type.types.BUY_LIMIT: Buy limit
+trading.order.history.filter.order_type.types.BUY_STOP: Buy stop
+trading.order.history.filter.order_type.types.CREDIT: Credit
+trading.order.history.filter.order_type.types.SELL: Sell
+trading.order.history.filter.order_type.types.SELL_LIMIT: Sell limit
+trading.order.history.filter.order_type.types.SELL_STOP: Sell stop
+trading.order.history.filter.symbol.symbols.default: All
+user_linking.buttons.continue: Continue
+user_linking.fields.password: Password
+user_linking.title: User linking
+user_login.buttons.login_in: Log In
+user_login.fields.password: Password
+user_login.labels.forgot_password: Forgot password?
+user_login.title.forex4you: Welcome to Forex4you
+user_login.title.markets4you: Welcome to Markets4you
+user_registration.buttons.confirm_and_continue: Confirm and continue
+user_registration.complete.action.convert_to_leader.failure: Failed to apply leader
+  settings!
+user_registration.complete.action.convert_to_leader.pending: Apply leader settings
+user_registration.complete.action.convert_to_leader.processing: Applying leader settings...
+user_registration.complete.action.convert_to_leader.success: Leader settings applied!
+user_registration.complete.action.create_account.failure: Failed to create an account!
+user_registration.complete.action.create_account.pending: Create account
+user_registration.complete.action.create_account.processing: Creating account...
+user_registration.complete.action.create_account.success: Account created!
+user_registration.complete.action.create_user.failure: Failed to create user!
+user_registration.complete.action.create_user.pending: Create user
+user_registration.complete.action.create_user.processing: Creating user...
+user_registration.complete.action.create_user.success: User has been successfully
+  created!
+user_registration.complete.action.deposit_account.failure: Failed to check account
+  terms!
+user_registration.complete.action.deposit_account.pending: Check account terms
+user_registration.complete.action.deposit_account.processing: Checking account terms...
+user_registration.complete.action.deposit_account.success: Account terms have been
+  checked!
+user_registration.complete.action.login.failure: Failed to sign in!
+user_registration.complete.action.login.pending: Sign in
+user_registration.complete.action.login.processing: Signing in...
+user_registration.complete.action.login.success: You have been signed in!
+user_registration.complete.action.redirect.pending: Redirect to trader room
+user_registration.complete.action.redirect.processing: Redirecting to trader room...
+user_registration.complete.action.redirect.success: Please, wait while the page refreshes.
+user_registration.fields.affid: Referral code (Optional)
+user_registration.fields.country: Country of residence
+user_registration.fields.email: Email
+user_registration.fields.password: Password
+user_registration.hint: By clicking the "Confirm & Continue" button, you agree to
+  the Markets4you Terms & Conditions.
+user_registration.hints.have_an_account: Have an account?
+user_registration.labels.log_in: Log in
+user_registration.labels.referral_code: Referral code
+user_registration.personal_details.jurisdiction.bvi: Please be informed that you are
+  registering with E-Global Trade & Finance Group, Inc. authorised and regulated by
+  the BVI FSC
+user_registration.personal_details.jurisdiction.by: You will be registered under BY
+  jurisdiction
+user_registration.personal_details.jurisdiction.mu: You will be registered under MU
+  jurisdiction
+user_registration.personal_details.jurisdiction.svg: Please be informed that you are
+  registering with E-Global Trade & Finance SVG LLC in the jurisdiction of Saint Vincent
+  and the Grenadines
+user_registration.resend_code.hint.email: Use the same email address or input a new
+  one
+user_registration.resend_code.hint.phone: Use the same phone number or input a new
+  one
+user_registration.title.forex4you: Sign up to Forex4you
+user_registration.title.markets4you: Sign up to Markets4you
+user_registration.verification_code.busy.call: We are initiating a call you to phone
+  number {{phone_number}}...
+user_registration.verification_code.busy.email: We are sending verification code to
+  your email {{email}}...
+user_registration.verification_code.busy.sms: We are sending SMS with a verification
+  code to phone number {{phone_number}}...
+user_registration.verification_code.change.call: Change phone number and request another
+  call
+user_registration.verification_code.change.email: Change email address and resend
+  code
+user_registration.verification_code.change.sms: Change phone number and resend code
+  via SMS
+user_registration.verification_code.resend.call: Request code via phone call to {{phone_number}}
+user_registration.verification_code.resend.email: Send code via email to {{email}}
+user_registration.verification_code.resend.sms: Send code via SMS to {{phone_number}}
+user_registration.verification_code.success.call: Please, wait for the call to your
+  phone number {{phone_number}}!
+user_registration.verification_code.success.email: We have sent verification code
+  to your email {{email}}!
+user_registration.verification_code.success.sms: We have sent SMS with a verification
+  code to phone number {{phone_number}}!
+user_sso.title: User linking
+verification.buttons.back: Back
+verification.buttons.change: Change
+verification.buttons.verify: Verify
+verification.descriptions.email: Please enter verification code that we send to email
+  ({{ recipient }}). Verification code valid  for 10 minutes!
+verification.descriptions.phone: Please enter verification code that we send to Phone
+  number ({{ recipient }}). Verification code valid  for 10 minutes!
+verification.fields.code: Confirmation code
+verification.fields.email: Email
+verification.fields.phone: Phone number
+verification.labels.resend_code: Resend code
+verification.page_title: Verification
+verification.titles.email_change: Email change
+verification.titles.email_verification: Email verification
+verification.titles.phone_number_change: Phone number change
+verification.titles.phone_number_verification: Phone number verification
+verification_call_confirmation: Please wait our automatic call to {{phone_number}}
+verification_code_confirmation: Confirmation code was sent to {{phone_number}}
+verification_code_email_confirmation: Registration confirmation code was sent to {{email}}
+verification_form.action.resend: Resend verification code
+verification_form.action.to_login: Back to login page
+verification_form.button.resend: Resend verification code
+verification_form.button.verify: Confirm & Continue
+verification_form.code.busy.email: Sending a verification code to your email {{email}}...
+verification_form.code.busy.sms: Sending an SMS with a verification code to phone
+  number {{phone_number}}...
+verification_form.code.hint.email: Login with your phone number
+verification_form.code.hint.label: Did not receive your code ?
+verification_form.code.hint.sms: Login with your email
+verification_form.code.resend.email: Send code via email
+verification_form.code.resend.sms: Send code via SMS
+verification_form.code.success.email: We have sent a verification code to your email
+  {{email}}
+verification_form.code.success.sms: We have sent an SMS with a verification code to
+  phone number {{phone_number}}
+verification_form.redirect.to_login: Redirecting to login page...
+verification_form.redirect.to_verification: Redirecting to verification page...
+verification_form.title: Verification
+vip.popup.body.description1: 'You''ve reached VIP status at Markets4you, and here
+  are your benefits:
+
+  '
+vip.popup.body.description2: 'Your VIP journey has just begun. Keep trading and enjoy
+  new opportunities!
+
+  '
+vip.popup.body.list.items: '<li class="vip__list__item"><b>Fast Funds Transfer:</b>
+  We will process your deposit and withdrawals with unrivaled speed.</li>
+
+  <li class="vip__list__item"><b>Quick Verification:</b> We will prioritize your account
+  verifications, placing you ahead in all queues.</li>
+
+  <li class="vip__list__item"><b>Prompt Support: Our</b> VIP customer service team
+  will swiftly respond to all your queries.</li>
+
+  '
+vip.popup.body.list.title: Your benefit
+vip.popup.heading.subtitle: You are VIP member!
+vip.popup.heading.title: Congratulations!
